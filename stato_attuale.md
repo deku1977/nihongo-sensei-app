@@ -15,16 +15,10 @@
 
 > **⚠️ IMPORTANTE:** Non utilizzare le API di Google Cloud per il TTS o la Traduzione. Usa le librerie basate sugli endpoint pubblici (come `google-tts-api`) che abbiamo già testato nel progetto legacy. Non richiedere all'utente chiavi API `.env` per queste funzioni. lo script è in ./script/generate-audio-tts.js
 # TODO
-"Claude, è ora di affrontare i contatori giapponesi. Crea un nuovo modulo chiamato CounterTemple.jsx e il relativo database src/database/counters_n5.json.
+"Claude, la sezione scrittura Kanji ha i due Canvas troppo grandi per l'iPhone 16.
 
-Specifiche del Modulo:
+Rendi i Canvas responsivi: invece di una grandezza fissa in pixel, usa una larghezza basata sulla percentuale dello schermo (es. 90vw) così si adattano sia al Tablet che all'iPhone.
 
-Database: Inserisci i contatori N5 principali: 〜つ (generico), 〜枚 (piatti), 〜本 (lunghi), 〜台 (macchine), 〜人 (persone) e 〜歳 (età). Includi le irregolarità fonetiche (es. ippon, sanbon).
+Assicurati che il Canvas del modello e quello per disegnare siano allineati verticalmente su mobile per risparmiare spazio laterale.
 
-Interfaccia: Mostra una sfida del tipo: 'Conta 3 bottiglie' o 'Ho 20 anni'. L'utente deve rispondere in Kanji o Hiragana.
-
-Feedback Intelligente: Se l'utente sbaglia, spiega PERCHÉ (es: 'Per le bottiglie, che sono oggetti lunghi, usa 〜本').
-
-Audio: Usa la nostra logica consolidata (ja-JP, rate 0.8) per far sentire la pronuncia corretta, specialmente per le eccezioni come 'ippon' o 'hitori'.
-
-Dashboard: Aggiungi il link al nuovo modulo nella Dashboard con un'icona a tema (es. un abaco o dei cubi)."
+Mantieni l'aspect ratio (proporzioni) quadrato."

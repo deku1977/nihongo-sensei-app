@@ -284,12 +284,18 @@ export default function KakiBoard() {
     // Clear canvas
     clearCanvas();
 
+    // Calcola dimensioni dinamiche
+    const rect = canvas.getBoundingClientRect();
+    const fontSize = Math.min(260, rect.width * 0.65);
+    const centerX = rect.width / 2;
+    const centerY = rect.height / 2;
+
     // Disegna il kanji di riferimento sul canvas in Sumi
-    context.font = '260px serif';
+    context.font = `${fontSize}px serif`;
     context.textAlign = 'center';
     context.textBaseline = 'middle';
     context.fillStyle = '#2C2C2C';
-    context.fillText(currentKanji.kanji, 200, 200);
+    context.fillText(currentKanji.kanji, centerX, centerY);
 
     // Reset dopo 3 secondi
     setTimeout(() => {
@@ -422,7 +428,8 @@ export default function KakiBoard() {
     if (refCtx) {
       // Applica stesso scaling del canvas principale
       refCtx.scale(dpr, dpr);
-      refCtx.font = '260px serif';
+      const fontSize = Math.min(260, rect.width * 0.65);
+      refCtx.font = `${fontSize}px serif`;
       refCtx.textAlign = 'center';
       refCtx.textBaseline = 'middle';
       refCtx.fillStyle = '#000000';
@@ -530,8 +537,9 @@ export default function KakiBoard() {
             <div
               style={{
                 position: 'relative',
-                width: '400px',
-                height: '400px',
+                width: '90vw',
+                maxWidth: '400px',
+                aspectRatio: '1',
                 margin: '0 auto',
                 border: '2px solid #E5E7EB',
                 borderRadius: '8px',
@@ -553,7 +561,7 @@ export default function KakiBoard() {
                 }}
               >
                 {/* Griglia guida */}
-                <svg width="100%" height="100%" style={{ position: 'absolute', top: 0, left: 0 }}>
+                <svg width="100%" height="100%" viewBox="0 0 400 400" style={{ position: 'absolute', top: 0, left: 0 }}>
                   <line x1="200" y1="0" x2="200" y2="400" stroke="rgba(0,0,0,0.1)" strokeWidth="1" />
                   <line x1="0" y1="200" x2="400" y2="200" stroke="rgba(0,0,0,0.1)" strokeWidth="1" />
                 </svg>
@@ -577,7 +585,7 @@ export default function KakiBoard() {
                   <div
                     className="font-mincho"
                     style={{
-                      fontSize: '260px',
+                      fontSize: 'min(260px, 58vw)',
                       lineHeight: 1,
                       fontWeight: 'bold',
                       color: '#E0E0E0' // Grigio chiaro come richiesto
@@ -648,8 +656,8 @@ export default function KakiBoard() {
                   left: 0,
                   zIndex: 10,
                   cursor: 'crosshair',
-                  width: '400px',
-                  height: '400px',
+                  width: '100%',
+                  height: '100%',
                   touchAction: 'none',
                   display: 'block'
                 }}
