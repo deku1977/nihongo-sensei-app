@@ -4,28 +4,44 @@ Modern Japanese learning platform with multi-level JLPT support (N5→N1), offli
 
 ## 📖 Overview
 
-Nihongo Sensei is a standalone React/Vite application for Japanese language learning. Features include kanji writing practice with stroke order validation, dictation exercises with phonetic feedback, SRS flashcards, verb conjugation drills, and a daily kanji widget—all with dynamic JLPT level filtering.
+Nihongo Sensei is a standalone React/Vite application for Japanese language learning. Features include kanji writing practice with stroke order validation, dictation exercises with phonetic feedback, SRS flashcards, verb conjugation drills, bidirectional translation practice, Japanese counters training, gamified battle dungeon, and a daily kanji widget—all with dynamic JLPT level filtering and fully responsive design optimized for both mobile and desktop.
 
 ## 🏗️ Architecture
 
 ```
 src/
-├── modules/
+├── modules/                    # Main learning modules
 │   ├── KakiBoard.jsx          # Kanji writing practice (Canvas + SVG stroke order)
 │   ├── DictationMaster.jsx    # Audio dictation with phonetic markers
 │   ├── FlashCards.jsx         # SRS flashcard system (kanji + sentences)
 │   ├── VerbLab.jsx            # Verb conjugation trainer
+│   ├── TranslationDojo.jsx    # Bidirectional IT↔JP translation practice
+│   ├── CounterTemple.jsx      # Japanese counters training (N5)
 │   ├── BattleDungeon.jsx      # Wave-based combat learning (Kanji + Verbs + Boss dictation)
 │   └── KanjiWidget.jsx        # Daily kanji widget
-├── database/
-│   ├── kanji_master.json      # Multi-level kanji database (N5-N1)
-│   └── sentences.json         # Example sentences with furigana
-├── components/
+├── components/                # Reusable UI components
+│   ├── Layout.jsx             # Responsive navigation (sidebar desktop + bottom nav mobile)
 │   ├── Dashboard.jsx          # Main hub with progress tracking
-│   └── Settings.jsx           # JLPT level selection + daily cards config
-└── hooks/
-    ├── useJLPTLevels.js       # Centralized level management
-    └── useDailyCardsTarget.js # Daily flashcards target (5-50)
+│   ├── Settings.jsx           # JLPT level selection + daily cards config
+│   ├── AnnotatedText.jsx      # Phonetic markers display
+│   ├── LiveFeedbackInput.jsx  # Real-time input validation
+│   ├── FlipCard.jsx           # Flashcard flip animation
+│   ├── TextDiff.jsx           # Character-by-character comparison
+│   └── SessionDashboard.jsx   # Session progress tracker
+├── hooks/                     # Custom React hooks
+│   ├── useJLPTLevels.js       # Centralized level management
+│   ├── useDailyCardsTarget.js # Daily flashcards target (5-50)
+│   ├── useSessionStats.js     # Session progress tracking
+│   └── useGlobalProgress.js   # Global progress statistics
+├── database/                  # JSON data files
+│   ├── kanji_master.json      # Multi-level kanji database (N5-N1)
+│   ├── sentences.json         # Example sentences with furigana
+│   └── counters_n5.json       # Japanese counters database
+└── utils/                     # Utility functions
+    ├── svgLoader.js           # KanjiVG SVG parser
+    ├── vectorMatcher.js       # Stroke similarity algorithm
+    ├── soundFeedback.js       # Web Audio API procedural sounds
+    └── kanaUtils.js           # Kana normalization and conversion
 
 public/
 ├── kanji/                     # SVG files from KanjiVG (e.g., 065e5.svg → 日)
@@ -34,14 +50,38 @@ public/
     └── dictation/             # TTS audio for sentences
 ```
 
+## 📱 Responsive Design
+
+The application features a fully adaptive layout optimized for all screen sizes:
+
+### Desktop (1024px+)
+- Vertical sidebar navigation (80px wide)
+- Side-by-side content layout
+- Large canvas sizes (450px for KakiBoard)
+- Full text labels on buttons
+
+### Tablet (768px-1023px)
+- Maintains sidebar navigation
+- Responsive canvas sizing (400px)
+- Optimized spacing and typography
+
+### Mobile (<768px)
+- Bottom navigation bar (fixed, 8 icons)
+- Vertical content stacking
+- Touch-optimized canvas (65vw width)
+- Icon-only buttons with emoji
+- Reduced padding and compact spacing
+- iPhone-optimized layouts
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18 + Vite
-- **Styling**: Tailwind CSS (custom Wabi-Sabi palette)
+- **Styling**: Tailwind CSS (custom Wabi-Sabi palette + responsive utilities)
 - **Routing**: React Router v6
 - **Data**: JSON-based local database
 - **Audio**: Web Audio API (procedural feedback) + Google TTS (free endpoint)
 - **SVG Processing**: KanjiVG format parser
+- **Canvas**: HTML5 Canvas API with high-DPI support
 
 ## 📋 Master Scripts
 
@@ -143,6 +183,8 @@ node scripts/maintenance-tool.js audit
 - Progressive hint system (shows only next stroke)
 - Glitter effects for 90%+ scores
 - Procedural sound feedback (Web Audio API)
+- Fully responsive: 65vw on mobile (iPhone optimized), 450px on desktop
+- Side-by-side layout on desktop, vertical stacking on mobile
 
 ### Dictation Master
 - Audio playback with phonetic markers
@@ -194,6 +236,15 @@ node scripts/maintenance-tool.js audit
 - Dual validation logic:
   - IT→JP: accepts kanji, hiragana, and alternative forms
   - JP→IT: keyword matching (70% threshold) for Italian answers
+
+### Counter Temple (Japanese Counters)
+- Interactive training for Japanese counters/classifiers (N5 level)
+- Dynamic sentence generation with noun-verb compatibility logic
+- Contextual feedback explaining WHY each counter is used
+- Audio pronunciation with TTS fallback
+- Session progress tracking with completion stats
+- Smart filtering: verbs automatically matched to compatible nouns
+- Visual guide with counter categories and usage examples
 
 ## 🗂️ Database Structure
 
@@ -272,6 +323,10 @@ Clear localStorage cache:
 - Sentences sourced from [Tatoeba Project](https://tatoeba.org)
 - Multi-level system is fully dynamic: works with any JLPT level combination (N5+N4, N2+N1, etc.)
 - FlashCards daily target configurable via slider in Settings (persisted in localStorage)
+- Responsive design implemented with Tailwind breakpoints: `md:` (768px), `lg:` (1024px)
+- Canvas high-DPI support: automatic scaling based on `devicePixelRatio`
+- Layout switches from sidebar (desktop) to bottom navigation (mobile) via `hidden md:flex` utilities
+- All data persisted in localStorage: JLPT levels, session stats, mastered kanji, flashcard progress
 
 ## 📄 License
 

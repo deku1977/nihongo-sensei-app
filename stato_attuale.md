@@ -14,11 +14,13 @@
 - Esempio: Inviare `ただしく` invece di `正しく` per garantire la pronuncia corretta.
 
 > **⚠️ IMPORTANTE:** Non utilizzare le API di Google Cloud per il TTS o la Traduzione. Usa le librerie basate sugli endpoint pubblici (come `google-tts-api`) che abbiamo già testato nel progetto legacy. Non richiedere all'utente chiavi API `.env` per queste funzioni. lo script è in ./script/generate-audio-tts.js
+# ✅ COMPLETATO - Responsive Design KakiBoard
+Layout completamente responsivo implementato:
+- Mobile (<768px): Canvas 65vw, layout verticale, bottom nav bar
+- Tablet (768px-1023px): Canvas 400px, sidebar visibile
+- Desktop (1024px+): Canvas 450px, layout affiancato, sidebar sinistra
+- Aspect ratio 1:1 mantenuto su tutti i device
+- Font e spaziature dinamici con breakpoint md: e lg:
+
 # TODO
-"Claude, la sezione scrittura Kanji ha i due Canvas troppo grandi per l'iPhone 16.
-
-Rendi i Canvas responsivi: invece di una grandezza fissa in pixel, usa una larghezza basata sulla percentuale dello schermo (es. 90vw) così si adattano sia al Tablet che all'iPhone.
-
-Assicurati che il Canvas del modello e quello per disegnare siano allineati verticalmente su mobile per risparmiare spazio laterale.
-
-Mantieni l'aspect ratio (proporzioni) quadrato."
+Prossime feature da implementare (se richieste)

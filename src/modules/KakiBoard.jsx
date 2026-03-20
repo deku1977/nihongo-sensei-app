@@ -530,9 +530,9 @@ export default function KakiBoard() {
           )}
         </div>
 
-        <div className="flex flex-col gap-4 md:gap-8">
+        <div className="flex flex-col lg:flex-row gap-4 md:gap-8">
           {/* Canvas Area */}
-          <div className="card-wabi p-3 md:p-6">
+          <div className="card-wabi p-3 md:p-6 lg:flex-1">
             {/* Canvas Wrapper */}
             <div
               className="canvas-wrapper"
@@ -818,6 +818,13 @@ export default function KakiBoard() {
                 }
               }
 
+              @media (min-width: 1024px) {
+                .canvas-wrapper {
+                  width: 450px;
+                  max-width: 450px;
+                }
+              }
+
               @keyframes stampAppear {
                 0% {
                   transform: translate(-50%, -50%) scale(0) rotate(-15deg);
@@ -874,7 +881,7 @@ export default function KakiBoard() {
           </div>
 
           {/* Info Panel */}
-          <div className="card-wabi p-4 md:p-6">
+          <div className="card-wabi p-4 md:p-6 lg:flex-1">
             {currentKanji ? (
               <>
                 {/* Kanji Display */}
