@@ -1,0 +1,2808 @@
+{
+  "N5": [
+    {
+      "kanji": "一",
+      "onyomi": "イチ、イツ",
+      "kunyomi": "ひと-、ひと.つ",
+      "meaning": "one, one radical (no.1)",
+      "strokes": 1,
+      "audio_text": "イチ、イツ、ひと-、ひと.つ",
+      "examples": []
+    },
+    {
+      "kanji": "二",
+      "onyomi": "ジ、ニ",
+      "kunyomi": "ふた、ふた.つ、ふたたび",
+      "meaning": "two, two radical (no. 7)",
+      "strokes": 2,
+      "audio_text": "ジ、ニ、ふた、ふた.つ、ふたたび",
+      "examples": []
+    },
+    {
+      "kanji": "三",
+      "onyomi": "サン、ゾウ",
+      "kunyomi": "み、み.つ、みっ.つ",
+      "meaning": "three",
+      "strokes": 3,
+      "audio_text": "サン、ゾウ、み、み.つ、みっ.つ",
+      "examples": []
+    },
+    {
+      "kanji": "四",
+      "onyomi": "シ",
+      "kunyomi": "よ、よ.つ、よっ.つ、よん",
+      "meaning": "four",
+      "strokes": 5,
+      "audio_text": "シ、よ、よ.つ、よっ.つ、よん",
+      "examples": []
+    },
+    {
+      "kanji": "五",
+      "onyomi": "ゴ",
+      "kunyomi": "いつ、いつ.つ",
+      "meaning": "five",
+      "strokes": 4,
+      "audio_text": "ゴ、いつ、いつ.つ",
+      "examples": []
+    },
+    {
+      "kanji": "六",
+      "onyomi": "リク、ロク",
+      "kunyomi": "む、む.つ、むい、むっ.つ",
+      "meaning": "six",
+      "strokes": 4,
+      "audio_text": "リク、ロク、む、む.つ、むい、むっ.つ",
+      "examples": []
+    },
+    {
+      "kanji": "七",
+      "onyomi": "シチ",
+      "kunyomi": "なな、なな.つ、なの",
+      "meaning": "seven",
+      "strokes": 2,
+      "audio_text": "シチ、なな、なな.つ、なの",
+      "examples": []
+    },
+    {
+      "kanji": "八",
+      "onyomi": "ハチ、ハツ",
+      "kunyomi": "や、や.つ、やっ.つ、よう",
+      "meaning": "eight, eight radical (no. 12)",
+      "strokes": 2,
+      "audio_text": "ハチ、ハツ、や、や.つ、やっ.つ、よう",
+      "examples": []
+    },
+    {
+      "kanji": "九",
+      "onyomi": "キュウ、ク",
+      "kunyomi": "ここの、ここの.つ",
+      "meaning": "nine",
+      "strokes": 2,
+      "audio_text": "キュウ、ク、ここの、ここの.つ",
+      "examples": []
+    },
+    {
+      "kanji": "十",
+      "onyomi": "ジッ、ジュウ、ジュッ",
+      "kunyomi": "そ、と、とお",
+      "meaning": "ten",
+      "strokes": 2,
+      "audio_text": "ジッ、ジュウ、ジュッ、そ、と、とお",
+      "examples": []
+    },
+    {
+      "kanji": "百",
+      "onyomi": "ヒャク、ビャク",
+      "kunyomi": "もも",
+      "meaning": "hundred",
+      "strokes": 6,
+      "audio_text": "ヒャク、ビャク、もも",
+      "examples": []
+    },
+    {
+      "kanji": "千",
+      "onyomi": "セン",
+      "kunyomi": "ち",
+      "meaning": "thousand",
+      "strokes": 3,
+      "audio_text": "セン、ち",
+      "examples": []
+    },
+    {
+      "kanji": "万",
+      "onyomi": "バン、マン",
+      "kunyomi": "よろず",
+      "meaning": "10,000, ten thousand",
+      "strokes": 3,
+      "audio_text": "バン、マン、よろず",
+      "examples": []
+    },
+    {
+      "kanji": "円",
+      "onyomi": "エン",
+      "kunyomi": "まど、まど.か、まる、まる.い、まろ.やか",
+      "meaning": "circle, round, yen",
+      "strokes": 4,
+      "audio_text": "エン、まど、まど.か、まる、まる.い、まろ.やか",
+      "examples": []
+    },
+    {
+      "kanji": "日",
+      "onyomi": "ジツ、ニチ",
+      "kunyomi": "-か、-び、ひ",
+      "meaning": "Japan, counter for days, day, sun",
+      "strokes": 4,
+      "audio_text": "ジツ、ニチ、-か、-び、ひ",
+      "examples": []
+    },
+    {
+      "kanji": "月",
+      "onyomi": "ガツ、ゲツ",
+      "kunyomi": "つき",
+      "meaning": "month, moon",
+      "strokes": 4,
+      "audio_text": "ガツ、ゲツ、つき",
+      "examples": []
+    },
+    {
+      "kanji": "火",
+      "onyomi": "��",
+      "kunyomi": "-び、ひ、ほ-",
+      "meaning": "fire",
+      "strokes": 4,
+      "audio_text": "��、-び、ひ、ほ-",
+      "examples": []
+    },
+    {
+      "kanji": "水",
+      "onyomi": "スイ",
+      "kunyomi": "みず、みず-",
+      "meaning": "water",
+      "strokes": 4,
+      "audio_text": "スイ、みず、みず-",
+      "examples": []
+    },
+    {
+      "kanji": "木",
+      "onyomi": "ボク、モク",
+      "kunyomi": "き、こ-",
+      "meaning": "tree, wood",
+      "strokes": 4,
+      "audio_text": "ボク、モク、き、こ-",
+      "examples": []
+    },
+    {
+      "kanji": "金",
+      "onyomi": "キン、コン、ゴン",
+      "kunyomi": "-がね、かな-、かね",
+      "meaning": "gold",
+      "strokes": 8,
+      "audio_text": "キン、コン、ゴン、-がね、かな-、かね",
+      "examples": []
+    },
+    {
+      "kanji": "土",
+      "onyomi": "ト、ド",
+      "kunyomi": "つち",
+      "meaning": "Turkey, earth, ground, soil",
+      "strokes": 3,
+      "audio_text": "ト、ド、つち",
+      "examples": []
+    },
+    {
+      "kanji": "年",
+      "onyomi": "ネン",
+      "kunyomi": "とし",
+      "meaning": "counter for years, year",
+      "strokes": 6,
+      "audio_text": "ネン、とし",
+      "examples": []
+    },
+    {
+      "kanji": "時",
+      "onyomi": "ジ",
+      "kunyomi": "-どき、とき",
+      "meaning": "hour, time",
+      "strokes": 10,
+      "audio_text": "ジ、-どき、とき",
+      "examples": []
+    },
+    {
+      "kanji": "分",
+      "onyomi": "フン、ブ、ブン",
+      "kunyomi": "わ.かつ、わ.かる、わ.かれる、わ.け、わ.ける",
+      "meaning": "1%, chances, degree, duty, know, minute of time, one's lot, part, rate, segment, shaku/100, share, understand",
+      "strokes": 4,
+      "audio_text": "フン、ブ、ブン、わ.かつ、わ.かる、わ.かれる、わ.け、わ.ける",
+      "examples": []
+    },
+    {
+      "kanji": "半",
+      "onyomi": "ハン",
+      "kunyomi": "なか.ば",
+      "meaning": "half, middle, odd number, part-, semi-",
+      "strokes": 5,
+      "audio_text": "ハン、なか.ば",
+      "examples": []
+    },
+    {
+      "kanji": "今",
+      "onyomi": "キン、コン",
+      "kunyomi": "いま",
+      "meaning": "now",
+      "strokes": 4,
+      "audio_text": "キン、コン、いま",
+      "examples": []
+    },
+    {
+      "kanji": "何",
+      "onyomi": "カ",
+      "kunyomi": "なに、なに-、なん、なん-",
+      "meaning": "what",
+      "strokes": 7,
+      "audio_text": "カ、なに、なに-、なん、なん-",
+      "examples": []
+    },
+    {
+      "kanji": "人",
+      "onyomi": "ジン、ニン",
+      "kunyomi": "-と、-り、ひと",
+      "meaning": "person",
+      "strokes": 2,
+      "audio_text": "ジン、ニン、-と、-り、ひと",
+      "examples": []
+    },
+    {
+      "kanji": "名",
+      "onyomi": "ミョウ、メイ",
+      "kunyomi": "-な、な",
+      "meaning": "distinguished, name, noted, reputation",
+      "strokes": 6,
+      "audio_text": "ミョウ、メイ、-な、な",
+      "examples": []
+    },
+    {
+      "kanji": "男",
+      "onyomi": "ダン、ナン",
+      "kunyomi": "お、おとこ",
+      "meaning": "male",
+      "strokes": 7,
+      "audio_text": "ダン、ナン、お、おとこ",
+      "examples": []
+    },
+    {
+      "kanji": "女",
+      "onyomi": "ジョ、ニョ、ニョウ",
+      "kunyomi": "おんな、め",
+      "meaning": "female, woman",
+      "strokes": 3,
+      "audio_text": "ジョ、ニョ、ニョウ、おんな、め",
+      "examples": []
+    },
+    {
+      "kanji": "子",
+      "onyomi": "シ、ス、ツ",
+      "kunyomi": "-こ、こ、ね",
+      "meaning": "11PM-1AM, child, first sign of Chinese zodiac, sign of the rat",
+      "strokes": 3,
+      "audio_text": "シ、ス、ツ、-こ、こ、ね",
+      "examples": []
+    },
+    {
+      "kanji": "学",
+      "onyomi": "ガク",
+      "kunyomi": "まな.ぶ",
+      "meaning": "learning, science, study",
+      "strokes": 8,
+      "audio_text": "ガク、まな.ぶ",
+      "examples": []
+    },
+    {
+      "kanji": "生",
+      "onyomi": "ショウ、セイ",
+      "kunyomi": "-う、い.かす、い.きる、い.ける、う.まれ、う.まれる、う.む、うま.れる、うまれ、お.う、き、な.す、な.る、なま、なま-、は.える、は.やす、む.す",
+      "meaning": "birth, genuine, life",
+      "strokes": 5,
+      "audio_text": "ショウ、セイ、-う、い.かす、い.きる、い.ける、う.まれ、う.まれる、う.む、うま.れる、うまれ、お.う、き、な.す、な.る、なま、なま-、は.える、は.やす、む.す",
+      "examples": []
+    },
+    {
+      "kanji": "先",
+      "onyomi": "セン",
+      "kunyomi": "さき、ま.ず",
+      "meaning": "ahead, before, future, precedence, previous",
+      "strokes": 6,
+      "audio_text": "セン、さき、ま.ず",
+      "examples": []
+    },
+    {
+      "kanji": "友",
+      "onyomi": "ユウ",
+      "kunyomi": "とも",
+      "meaning": "friend",
+      "strokes": 4,
+      "audio_text": "ユウ、とも",
+      "examples": []
+    },
+    {
+      "kanji": "父",
+      "onyomi": "フ",
+      "kunyomi": "ちち",
+      "meaning": "father",
+      "strokes": 4,
+      "audio_text": "フ、ちち",
+      "examples": []
+    },
+    {
+      "kanji": "母",
+      "onyomi": "ボ",
+      "kunyomi": "はは、も",
+      "meaning": "mother",
+      "strokes": 5,
+      "audio_text": "ボ、はは、も",
+      "examples": []
+    },
+    {
+      "kanji": "私",
+      "onyomi": "シ",
+      "kunyomi": "わたくし、わたし",
+      "meaning": "I, me, private",
+      "strokes": 7,
+      "audio_text": "シ、わたくし、わたし",
+      "examples": []
+    },
+    {
+      "kanji": "々",
+      "onyomi": "",
+      "kunyomi": "",
+      "meaning": "",
+      "strokes": 0,
+      "audio_text": "",
+      "examples": []
+    },
+    {
+      "kanji": "国",
+      "onyomi": "コク",
+      "kunyomi": "くに",
+      "meaning": "country",
+      "strokes": 8,
+      "audio_text": "コク、くに",
+      "examples": []
+    },
+    {
+      "kanji": "外",
+      "onyomi": "ガイ、ゲ",
+      "kunyomi": "そと、と-、はず.す、はず.れる、ほか",
+      "meaning": "outside",
+      "strokes": 5,
+      "audio_text": "ガイ、ゲ、そと、と-、はず.す、はず.れる、ほか",
+      "examples": []
+    },
+    {
+      "kanji": "中",
+      "onyomi": "チュウ",
+      "kunyomi": "あた.る、うち、なか",
+      "meaning": "center, in, inside, mean, middle",
+      "strokes": 4,
+      "audio_text": "チュウ、あた.る、うち、なか",
+      "examples": []
+    },
+    {
+      "kanji": "東",
+      "onyomi": "トウ",
+      "kunyomi": "ひがし",
+      "meaning": "east",
+      "strokes": 8,
+      "audio_text": "トウ、ひがし",
+      "examples": []
+    },
+    {
+      "kanji": "西",
+      "onyomi": "サイ、ス、セイ",
+      "kunyomi": "にし",
+      "meaning": "Spain, west",
+      "strokes": 6,
+      "audio_text": "サイ、ス、セイ、にし",
+      "examples": []
+    },
+    {
+      "kanji": "南",
+      "onyomi": "ナ、ナン",
+      "kunyomi": "みなみ",
+      "meaning": "south",
+      "strokes": 9,
+      "audio_text": "ナ、ナン、みなみ",
+      "examples": []
+    },
+    {
+      "kanji": "北",
+      "onyomi": "ホク",
+      "kunyomi": "きた",
+      "meaning": "north",
+      "strokes": 5,
+      "audio_text": "ホク、きた",
+      "examples": []
+    },
+    {
+      "kanji": "上",
+      "onyomi": "シャン、ショウ、ジョウ",
+      "kunyomi": "-あ.がり、-あ.がる、-あ.げる、-うえ、あ.がり、あ.がる、あ.げる、うえ、うわ-、かみ、たてまつ.る、のぼ.す、のぼ.せる、のぼ.り、のぼ.る",
+      "meaning": "above, up",
+      "strokes": 3,
+      "audio_text": "シャン、ショウ、ジョウ、-あ.がり、-あ.がる、-あ.げる、-うえ、あ.がり、あ.がる、あ.げる、うえ、うわ-、かみ、たてまつ.る、のぼ.す、のぼ.せる、のぼ.り、のぼ.る",
+      "examples": []
+    },
+    {
+      "kanji": "下",
+      "onyomi": "カ、ゲ",
+      "kunyomi": "-くだ.す、お.りる、お.ろす、くだ.さる、くだ.す、くだ.り、くだ.る、さ.がる、さ.げる、した、しも、もと",
+      "meaning": "below, descend, down, give, inferior, low",
+      "strokes": 3,
+      "audio_text": "カ、ゲ、-くだ.す、お.りる、お.ろす、くだ.さる、くだ.す、くだ.り、くだ.る、さ.がる、さ.げる、した、しも、もと",
+      "examples": []
+    },
+    {
+      "kanji": "左",
+      "onyomi": "サ、シャ",
+      "kunyomi": "ひだり",
+      "meaning": "left",
+      "strokes": 5,
+      "audio_text": "サ、シャ、ひだり",
+      "examples": []
+    },
+    {
+      "kanji": "右",
+      "onyomi": "ウ、ユウ",
+      "kunyomi": "みぎ",
+      "meaning": "right",
+      "strokes": 5,
+      "audio_text": "ウ、ユウ、みぎ",
+      "examples": []
+    },
+    {
+      "kanji": "前",
+      "onyomi": "ゼン",
+      "kunyomi": "-まえ、まえ",
+      "meaning": "before, in front",
+      "strokes": 9,
+      "audio_text": "ゼン、-まえ、まえ",
+      "examples": []
+    },
+    {
+      "kanji": "後",
+      "onyomi": "コウ、ゴ",
+      "kunyomi": "あと、うし.ろ、うしろ、おく.れる、のち",
+      "meaning": "back, behind, later",
+      "strokes": 9,
+      "audio_text": "コウ、ゴ、あと、うし.ろ、うしろ、おく.れる、のち",
+      "examples": []
+    },
+    {
+      "kanji": "行",
+      "onyomi": "アン、ギョウ、コウ",
+      "kunyomi": "-い.き、-いき、-ゆ.き、-ゆき、い.く、おこ.なう、おこな.う、ゆ.く",
+      "meaning": "act, bank, carry out, conduct, going, journey, line, row",
+      "strokes": 6,
+      "audio_text": "アン、ギョウ、コウ、-い.き、-いき、-ゆ.き、-ゆき、い.く、おこ.なう、おこな.う、ゆ.く",
+      "examples": []
+    },
+    {
+      "kanji": "来",
+      "onyomi": "タイ、ライ",
+      "kunyomi": "き、き.たす、き.たる、きた.す、きた.る、く.る、こ",
+      "meaning": "become, cause, come, due, next",
+      "strokes": 7,
+      "audio_text": "タイ、ライ、き、き.たす、き.たる、きた.す、きた.る、く.る、こ",
+      "examples": []
+    },
+    {
+      "kanji": "帰",
+      "onyomi": "キ",
+      "kunyomi": "おく.る、かえ.す、かえ.る、とつ.ぐ",
+      "meaning": "arrive at, homecoming, lead to, result in",
+      "strokes": 10,
+      "audio_text": "キ、おく.る、かえ.す、かえ.る、とつ.ぐ",
+      "examples": []
+    },
+    {
+      "kanji": "入",
+      "onyomi": "ジュ、ニュウ",
+      "kunyomi": "-い.り、-い.る、-い.れ、い.る、い.れる、はい.る",
+      "meaning": "enter, insert",
+      "strokes": 2,
+      "audio_text": "ジュ、ニュウ、-い.り、-い.る、-い.れ、い.る、い.れる、はい.る",
+      "examples": []
+    },
+    {
+      "kanji": "出",
+      "onyomi": "シュツ、スイ",
+      "kunyomi": "-だ.す、-で、い.だす、い.でる、だ.す、で.る",
+      "meaning": "come out, exit, go out, leave, protrude, put out",
+      "strokes": 5,
+      "audio_text": "シュツ、スイ、-だ.す、-で、い.だす、い.でる、だ.す、で.る",
+      "examples": []
+    },
+    {
+      "kanji": "見",
+      "onyomi": "ケン",
+      "kunyomi": "み.える、み.せる、み.る",
+      "meaning": "chances, hopes, idea, look at, opinion, see, visible",
+      "strokes": 7,
+      "audio_text": "ケン、み.える、み.せる、み.る",
+      "examples": []
+    },
+    {
+      "kanji": "聞",
+      "onyomi": "ブン、モン",
+      "kunyomi": "き.く、き.こえる",
+      "meaning": "ask, hear, listen",
+      "strokes": 14,
+      "audio_text": "ブン、モン、き.く、き.こえる",
+      "examples": []
+    },
+    {
+      "kanji": "食",
+      "onyomi": "ショク、ジキ",
+      "kunyomi": "く.う、く.らう、た.べる、は.む",
+      "meaning": "eat, food",
+      "strokes": 9,
+      "audio_text": "ショク、ジキ、く.う、く.らう、た.べる、は.む",
+      "examples": []
+    },
+    {
+      "kanji": "飲",
+      "onyomi": "イン、オン",
+      "kunyomi": "-の.み、の.む",
+      "meaning": "drink, smoke, take",
+      "strokes": 12,
+      "audio_text": "イン、オン、-の.み、の.む",
+      "examples": []
+    },
+    {
+      "kanji": "読",
+      "onyomi": "トウ、トク、ドク",
+      "kunyomi": "-よ.み、よ.む",
+      "meaning": "read",
+      "strokes": 14,
+      "audio_text": "トウ、トク、ドク、-よ.み、よ.む",
+      "examples": []
+    },
+    {
+      "kanji": "書",
+      "onyomi": "ショ",
+      "kunyomi": "-が.き、-がき、か.く",
+      "meaning": "write",
+      "strokes": 10,
+      "audio_text": "ショ、-が.き、-がき、か.く",
+      "examples": []
+    },
+    {
+      "kanji": "話",
+      "onyomi": "ワ",
+      "kunyomi": "はな.す、はなし",
+      "meaning": "tale, talk",
+      "strokes": 13,
+      "audio_text": "ワ、はな.す、はなし",
+      "examples": []
+    },
+    {
+      "kanji": "言",
+      "onyomi": "ゲン、ゴン",
+      "kunyomi": "い.う、こと",
+      "meaning": "say, word",
+      "strokes": 7,
+      "audio_text": "ゲン、ゴン、い.う、こと",
+      "examples": []
+    },
+    {
+      "kanji": "買",
+      "onyomi": "バイ",
+      "kunyomi": "か.う",
+      "meaning": "buy",
+      "strokes": 12,
+      "audio_text": "バイ、か.う",
+      "examples": []
+    },
+    {
+      "kanji": "本",
+      "onyomi": "ホン",
+      "kunyomi": "もと",
+      "meaning": "book, counter for long cylindrical things, main, origin, present, real, true",
+      "strokes": 5,
+      "audio_text": "ホン、もと",
+      "examples": []
+    },
+    {
+      "kanji": "気",
+      "onyomi": "キ、ケ",
+      "kunyomi": "き",
+      "meaning": "air, atmosphere, mind, mood, spirit",
+      "strokes": 6,
+      "audio_text": "キ、ケ、き",
+      "examples": []
+    },
+    {
+      "kanji": "天",
+      "onyomi": "テン",
+      "kunyomi": "あま-、あまつ、あめ",
+      "meaning": "heavens, imperial, sky",
+      "strokes": 4,
+      "audio_text": "テン、あま-、あまつ、あめ",
+      "examples": []
+    },
+    {
+      "kanji": "山",
+      "onyomi": "サン、セン",
+      "kunyomi": "やま",
+      "meaning": "mountain",
+      "strokes": 3,
+      "audio_text": "サン、セン、やま",
+      "examples": []
+    },
+    {
+      "kanji": "川",
+      "onyomi": "セン",
+      "kunyomi": "かわ",
+      "meaning": "river, river or three-stroke river radical (no. 47), stream",
+      "strokes": 3,
+      "audio_text": "セン、かわ",
+      "examples": []
+    },
+    {
+      "kanji": "田",
+      "onyomi": "デン",
+      "kunyomi": "た",
+      "meaning": "rice field, rice paddy",
+      "strokes": 5,
+      "audio_text": "デン、た",
+      "examples": []
+    },
+    {
+      "kanji": "土",
+      "onyomi": "ト、ド",
+      "kunyomi": "つち",
+      "meaning": "Turkey, earth, ground, soil",
+      "strokes": 3,
+      "audio_text": "ト、ド、つち",
+      "examples": []
+    },
+    {
+      "kanji": "雨",
+      "onyomi": "ウ",
+      "kunyomi": "-さめ、あま-、あめ",
+      "meaning": "rain",
+      "strokes": 8,
+      "audio_text": "ウ、-さめ、あま-、あめ",
+      "examples": []
+    },
+    {
+      "kanji": "電",
+      "onyomi": "デン",
+      "kunyomi": "",
+      "meaning": "electricity",
+      "strokes": 13,
+      "audio_text": "デン",
+      "examples": []
+    },
+    {
+      "kanji": "車",
+      "onyomi": "シャ",
+      "kunyomi": "くるま",
+      "meaning": "car",
+      "strokes": 7,
+      "audio_text": "シャ、くるま",
+      "examples": []
+    },
+    {
+      "kanji": "語",
+      "onyomi": "ゴ",
+      "kunyomi": "かた.らう、かた.る",
+      "meaning": "language, speech, word",
+      "strokes": 14,
+      "audio_text": "ゴ、かた.らう、かた.る",
+      "examples": []
+    },
+    {
+      "kanji": "文",
+      "onyomi": "ブン、モン",
+      "kunyomi": "あや、ふみ",
+      "meaning": "art, decoration, figures, literary radical (no. 67), literature, plan, sentence, style",
+      "strokes": 4,
+      "audio_text": "ブン、モン、あや、ふみ",
+      "examples": []
+    },
+    {
+      "kanji": "校",
+      "onyomi": "キョウ、コウ",
+      "kunyomi": "",
+      "meaning": "correction, exam, printing, proof, school",
+      "strokes": 10,
+      "audio_text": "キョウ、コウ",
+      "examples": []
+    },
+    {
+      "kanji": "大",
+      "onyomi": "タイ、ダイ",
+      "kunyomi": "-おお.いに、おお-、おお.きい",
+      "meaning": "big, large",
+      "strokes": 3,
+      "audio_text": "タイ、ダイ、-おお.いに、おお-、おお.きい",
+      "examples": []
+    },
+    {
+      "kanji": "小",
+      "onyomi": "ショウ",
+      "kunyomi": "お-、こ-、さ-、ちい.さい",
+      "meaning": "little, small",
+      "strokes": 3,
+      "audio_text": "ショウ、お-、こ-、さ-、ちい.さい",
+      "examples": []
+    },
+    {
+      "kanji": "高",
+      "onyomi": "コウ",
+      "kunyomi": "-だか、たか、たか.い、たか.まる、たか.める",
+      "meaning": "expensive, high, tall",
+      "strokes": 10,
+      "audio_text": "コウ、-だか、たか、たか.い、たか.まる、たか.める",
+      "examples": []
+    },
+    {
+      "kanji": "安",
+      "onyomi": "アン",
+      "kunyomi": "やす、やす.い、やす.まる、やす.らか",
+      "meaning": "cheap, contented, low, peaceful, quiet, relax, rested",
+      "strokes": 6,
+      "audio_text": "アン、やす、やす.い、やす.まる、やす.らか",
+      "examples": []
+    },
+    {
+      "kanji": "新",
+      "onyomi": "シン",
+      "kunyomi": "あたら.しい、あら-、あら.た、にい-",
+      "meaning": "new",
+      "strokes": 13,
+      "audio_text": "シン、あたら.しい、あら-、あら.た、にい-",
+      "examples": []
+    },
+    {
+      "kanji": "古",
+      "onyomi": "コ",
+      "kunyomi": "-ふる.す、ふる-、ふる.い",
+      "meaning": "old",
+      "strokes": 5,
+      "audio_text": "コ、-ふる.す、ふる-、ふる.い",
+      "examples": []
+    },
+    {
+      "kanji": "長",
+      "onyomi": "チョウ",
+      "kunyomi": "おさ、なが.い",
+      "meaning": "leader, long, senior, superior",
+      "strokes": 8,
+      "audio_text": "チョウ、おさ、なが.い",
+      "examples": []
+    },
+    {
+      "kanji": "多",
+      "onyomi": "タ",
+      "kunyomi": "おお.い、まさ.に、まさ.る",
+      "meaning": "frequent, many, much",
+      "strokes": 6,
+      "audio_text": "タ、おお.い、まさ.に、まさ.る",
+      "examples": []
+    },
+    {
+      "kanji": "少",
+      "onyomi": "ショウ",
+      "kunyomi": "すく.ない、すこ.し",
+      "meaning": "few, little",
+      "strokes": 4,
+      "audio_text": "ショウ、すく.ない、すこ.し",
+      "examples": []
+    },
+    {
+      "kanji": "間",
+      "onyomi": "カン、ケン",
+      "kunyomi": "あい、あいだ、ま",
+      "meaning": "interval, space",
+      "strokes": 12,
+      "audio_text": "カン、ケン、あい、あいだ、ま",
+      "examples": []
+    },
+    {
+      "kanji": "毎",
+      "onyomi": "マイ",
+      "kunyomi": "-ごと.に、ごと",
+      "meaning": "every",
+      "strokes": 6,
+      "audio_text": "マイ、-ごと.に、ごと",
+      "examples": []
+    },
+    {
+      "kanji": "白",
+      "onyomi": "ハク、ビャク",
+      "kunyomi": "しら-、しろ、しろ.い",
+      "meaning": "white",
+      "strokes": 5,
+      "audio_text": "ハク、ビャク、しら-、しろ、しろ.い",
+      "examples": []
+    },
+    {
+      "kanji": "立",
+      "onyomi": "リットル、リツ、リュウ",
+      "kunyomi": "-た.つ、-た.て、-た.てる、-だ.て、-だ.てる、た.ち-、た.つ、た.て-、た.てる、たて-",
+      "meaning": "erect, rise, set up, stand up",
+      "strokes": 5,
+      "audio_text": "リットル、リツ、リュウ、-た.つ、-た.て、-た.てる、-だ.て、-だ.てる、た.ち-、た.つ、た.て-、た.てる、たて-",
+      "examples": []
+    },
+    {
+      "kanji": "休",
+      "onyomi": "キュウ",
+      "kunyomi": "やす.まる、やす.む、やす.める",
+      "meaning": "day off, rest, retire, sleep",
+      "strokes": 6,
+      "audio_text": "キュウ、やす.まる、やす.む、やす.める",
+      "examples": []
+    },
+    {
+      "kanji": "早",
+      "onyomi": "サッ、ソウ",
+      "kunyomi": "さ-、はや、はや-、はや.い、はや.まる、はや.める",
+      "meaning": "early, fast",
+      "strokes": 6,
+      "audio_text": "サッ、ソウ、さ-、はや、はや-、はや.い、はや.まる、はや.める",
+      "examples": []
+    },
+    {
+      "kanji": "明",
+      "onyomi": "ミョウ、ミン、メイ",
+      "kunyomi": "-あ.け、あ.かす、あ.かり、あ.く、あ.くる、あ.ける、あか.らむ、あか.るい、あか.るむ、あき.らか",
+      "meaning": "bright, light",
+      "strokes": 8,
+      "audio_text": "ミョウ、ミン、メイ、-あ.け、あ.かす、あ.かり、あ.く、あ.くる、あ.ける、あか.らむ、あか.るい、あか.るむ、あき.らか",
+      "examples": []
+    }
+  ],
+  "N4": [
+    {
+      "kanji": "以",
+      "onyomi": "イ",
+      "kunyomi": "もっ.て",
+      "meaning": "because, by means of, compared with, in view of",
+      "strokes": 5,
+      "audio_text": "イ、もっ.て",
+      "examples": []
+    },
+    {
+      "kanji": "内",
+      "onyomi": "ダイ、ナイ",
+      "kunyomi": "うち",
+      "meaning": "among, between, home, house, inside, within",
+      "strokes": 4,
+      "audio_text": "ダイ、ナイ、うち",
+      "examples": []
+    },
+    {
+      "kanji": "他",
+      "onyomi": "タ",
+      "kunyomi": "ほか",
+      "meaning": "another, other, the others",
+      "strokes": 5,
+      "audio_text": "タ、ほか",
+      "examples": []
+    },
+    {
+      "kanji": "全",
+      "onyomi": "ゼン",
+      "kunyomi": "すべ.て、まった.く",
+      "meaning": "all, complete, entire, fulfill, whole",
+      "strokes": 6,
+      "audio_text": "ゼン、すべ.て、まった.く",
+      "examples": []
+    },
+    {
+      "kanji": "両",
+      "onyomi": "リョウ",
+      "kunyomi": "てる、ふたつ",
+      "meaning": "both, counter for carriages (e.g., in a train), old Japanese coin, two",
+      "strokes": 6,
+      "audio_text": "リョウ、てる、ふたつ",
+      "examples": []
+    },
+    {
+      "kanji": "度",
+      "onyomi": "タク、ト、ド",
+      "kunyomi": "-た.い、たび",
+      "meaning": "attitude, consider, counter for occurrences, degrees, occurrence, time",
+      "strokes": 9,
+      "audio_text": "タク、ト、ド、-た.い、たび",
+      "examples": []
+    },
+    {
+      "kanji": "番",
+      "onyomi": "バン",
+      "kunyomi": "つが.い",
+      "meaning": "number in a series, turn",
+      "strokes": 12,
+      "audio_text": "バン、つが.い",
+      "examples": []
+    },
+    {
+      "kanji": "様",
+      "onyomi": "ショウ、ヨウ",
+      "kunyomi": "さま、さん",
+      "meaning": "Esq., manner, polite suffix, situation, way",
+      "strokes": 14,
+      "audio_text": "ショウ、ヨウ、さま、さん",
+      "examples": []
+    },
+    {
+      "kanji": "代",
+      "onyomi": "タイ、ダイ",
+      "kunyomi": "-が.わり、-がわ.り、か.える、か.わり、か.わる、かわ.り、か��.る、しろ、よ",
+      "meaning": "age, change, charge, convert, counter for decades of ages, eras, etc., fee, generation, period, rate, replace, substitute",
+      "strokes": 5,
+      "audio_text": "タイ、ダイ、-が.わり、-がわ.り、か.える、か.わり、か.わる、かわ.り、か��.る、しろ、よ",
+      "examples": []
+    },
+    {
+      "kanji": "第",
+      "onyomi": "ダイ、テ���",
+      "kunyomi": "",
+      "meaning": "No., residence",
+      "strokes": 11,
+      "audio_text": "ダイ、テ���",
+      "examples": []
+    },
+    {
+      "kanji": "午",
+      "onyomi": "ゴ",
+      "kunyomi": "うま",
+      "meaning": "11AM-1PM, noon, seventh sign of Chinese zodiac, sign of the horse",
+      "strokes": 4,
+      "audio_text": "ゴ、うま",
+      "examples": []
+    },
+    {
+      "kanji": "朝",
+      "onyomi": "チョウ",
+      "kunyomi": "あさ",
+      "meaning": "(North) Korea, dynasty, epoch, morning, period, regime",
+      "strokes": 12,
+      "audio_text": "チョウ、あさ",
+      "examples": []
+    },
+    {
+      "kanji": "昼",
+      "onyomi": "チュウ",
+      "kunyomi": "ひる",
+      "meaning": "daytime, noon",
+      "strokes": 9,
+      "audio_text": "チュウ、ひる",
+      "examples": []
+    },
+    {
+      "kanji": "夜",
+      "onyomi": "ヤ",
+      "kunyomi": "よ、よる",
+      "meaning": "evening, night",
+      "strokes": 8,
+      "audio_text": "ヤ、よ、よる",
+      "examples": []
+    },
+    {
+      "kanji": "週",
+      "onyomi": "シュウ",
+      "kunyomi": "",
+      "meaning": "week",
+      "strokes": 11,
+      "audio_text": "シュウ",
+      "examples": []
+    },
+    {
+      "kanji": "春",
+      "onyomi": "シュン",
+      "kunyomi": "はる",
+      "meaning": "spring (season), springtime",
+      "strokes": 9,
+      "audio_text": "シュン、はる",
+      "examples": []
+    },
+    {
+      "kanji": "夏",
+      "onyomi": "カ、ガ、ゲ",
+      "kunyomi": "なつ",
+      "meaning": "summer",
+      "strokes": 10,
+      "audio_text": "カ、ガ、ゲ、なつ",
+      "examples": []
+    },
+    {
+      "kanji": "秋",
+      "onyomi": "シュウ",
+      "kunyomi": "あき、とき",
+      "meaning": "autumn",
+      "strokes": 9,
+      "audio_text": "シュウ、あき、とき",
+      "examples": []
+    },
+    {
+      "kanji": "冬",
+      "onyomi": "トウ",
+      "kunyomi": "ふゆ",
+      "meaning": "winter",
+      "strokes": 5,
+      "audio_text": "トウ、ふゆ",
+      "examples": []
+    },
+    {
+      "kanji": "去",
+      "onyomi": "キョ、コ",
+      "kunyomi": "-さ.る、さ.る",
+      "meaning": "divorce, elapse, eliminate, gone, leave, past, quit",
+      "strokes": 5,
+      "audio_text": "キョ、コ、-さ.る、さ.る",
+      "examples": []
+    },
+    {
+      "kanji": "当",
+      "onyomi": "トウ",
+      "kunyomi": "あ.たり、あ.たる、あ.て、あ.てる、まさ.に、まさ.にべし",
+      "meaning": "appropriate, himself, hit, right",
+      "strokes": 6,
+      "audio_text": "トウ、あ.たり、あ.たる、あ.て、あ.てる、まさ.に、まさ.にべし",
+      "examples": []
+    },
+    {
+      "kanji": "初",
+      "onyomi": "ショ",
+      "kunyomi": "-そ.める、-ぞ.め、うい-、はじ.め、はじ.めて、はつ、はつ-",
+      "meaning": "beginning, first time",
+      "strokes": 7,
+      "audio_text": "ショ、-そ.める、-ぞ.め、うい-、はじ.め、はじ.めて、はつ、はつ-",
+      "examples": []
+    },
+    {
+      "kanji": "終",
+      "onyomi": "シュウ",
+      "kunyomi": "-お.わる、お.える、お.わる、おわ.る、つい、つい.に",
+      "meaning": "end, finish",
+      "strokes": 11,
+      "audio_text": "シュウ、-お.わる、お.える、お.わる、おわ.る、つい、つい.に",
+      "examples": []
+    },
+    {
+      "kanji": "始",
+      "onyomi": "シ",
+      "kunyomi": "-はじ.める、はじ.まる、はじ.める",
+      "meaning": "begin, commence",
+      "strokes": 8,
+      "audio_text": "シ、-はじ.める、はじ.まる、はじ.める",
+      "examples": []
+    },
+    {
+      "kanji": "主",
+      "onyomi": "シュ、シュウ、ス",
+      "kunyomi": "あるじ、おも、ぬし",
+      "meaning": "chief, lord, main thing, master, principal",
+      "strokes": 5,
+      "audio_text": "シュ、シュウ、ス、あるじ、おも、ぬし",
+      "examples": []
+    },
+    {
+      "kanji": "兄",
+      "onyomi": "キョウ、ケイ",
+      "kunyomi": "あに",
+      "meaning": "big brother, elder brother",
+      "strokes": 5,
+      "audio_text": "キョウ、ケイ、あに",
+      "examples": []
+    },
+    {
+      "kanji": "弟",
+      "onyomi": "ダイ、テイ、デ",
+      "kunyomi": "おとうと",
+      "meaning": "faithful service to elders, younger brother",
+      "strokes": 7,
+      "audio_text": "ダイ、テイ、デ、おとうと",
+      "examples": []
+    },
+    {
+      "kanji": "姉",
+      "onyomi": "シ",
+      "kunyomi": "あね、はは",
+      "meaning": "elder sister",
+      "strokes": 8,
+      "audio_text": "シ、あね、はは",
+      "examples": []
+    },
+    {
+      "kanji": "妹",
+      "onyomi": "マイ",
+      "kunyomi": "いもうと",
+      "meaning": "younger sister",
+      "strokes": 8,
+      "audio_text": "マイ、いもうと",
+      "examples": []
+    },
+    {
+      "kanji": "夫",
+      "onyomi": "フ、フウ、ブ",
+      "kunyomi": "おっと、それ",
+      "meaning": "husband, man",
+      "strokes": 4,
+      "audio_text": "フ、フウ、ブ、おっと、それ",
+      "examples": []
+    },
+    {
+      "kanji": "妻",
+      "onyomi": "サイ",
+      "kunyomi": "つま",
+      "meaning": "spouse, wife",
+      "strokes": 8,
+      "audio_text": "サイ、つま",
+      "examples": []
+    },
+    {
+      "kanji": "方",
+      "onyomi": "ホウ",
+      "kunyomi": "-かた、-がた、かた",
+      "meaning": "alternative, direction, person",
+      "strokes": 4,
+      "audio_text": "ホウ、-かた、-がた、かた",
+      "examples": []
+    },
+    {
+      "kanji": "君",
+      "onyomi": "クン",
+      "kunyomi": "-ぎみ、きみ",
+      "meaning": "male name suffix, mister, ruler, you",
+      "strokes": 7,
+      "audio_text": "クン、-ぎみ、きみ",
+      "examples": []
+    },
+    {
+      "kanji": "心",
+      "onyomi": "シン",
+      "kunyomi": "-ごころ、こころ",
+      "meaning": "heart, heart radical (no. 61), mind, spirit",
+      "strokes": 4,
+      "audio_text": "シン、-ごころ、こころ",
+      "examples": []
+    },
+    {
+      "kanji": "体",
+      "onyomi": "タイ、テイ",
+      "kunyomi": "かたち、からだ",
+      "meaning": "body, counter for images, object, reality, substance",
+      "strokes": 7,
+      "audio_text": "タイ、テイ、かたち、からだ",
+      "examples": []
+    },
+    {
+      "kanji": "頭",
+      "onyomi": "ズ、ト、トウ",
+      "kunyomi": "-がしら、あたま、かしら、かぶり",
+      "meaning": "counter for large animals, head",
+      "strokes": 16,
+      "audio_text": "ズ、ト、トウ、-がしら、あたま、かしら、かぶり",
+      "examples": []
+    },
+    {
+      "kanji": "顔",
+      "onyomi": "ガン",
+      "kunyomi": "かお",
+      "meaning": "expression, face",
+      "strokes": 18,
+      "audio_text": "ガン、かお",
+      "examples": []
+    },
+    {
+      "kanji": "目",
+      "onyomi": "ボク、モク",
+      "kunyomi": "-め、ま-、め",
+      "meaning": "care, class, experience, eye, favor, insight, look",
+      "strokes": 5,
+      "audio_text": "ボク、モク、-め、ま-、め",
+      "examples": []
+    },
+    {
+      "kanji": "耳",
+      "onyomi": "ジ",
+      "kunyomi": "みみ",
+      "meaning": "ear",
+      "strokes": 6,
+      "audio_text": "ジ、みみ",
+      "examples": []
+    },
+    {
+      "kanji": "口",
+      "onyomi": "ク、コウ",
+      "kunyomi": "くち",
+      "meaning": "mouth",
+      "strokes": 3,
+      "audio_text": "ク、コウ、くち",
+      "examples": []
+    },
+    {
+      "kanji": "手",
+      "onyomi": "シュ、ズ",
+      "kunyomi": "-て、た-、て、て-",
+      "meaning": "hand",
+      "strokes": 4,
+      "audio_text": "シュ、ズ、-て、た-、て、て-",
+      "examples": []
+    },
+    {
+      "kanji": "足",
+      "onyomi": "ソク",
+      "kunyomi": "あし、た.す、た.りる、た.る",
+      "meaning": "be sufficient, counter for pairs of footwear, foot, leg",
+      "strokes": 7,
+      "audio_text": "ソク、あし、た.す、た.りる、た.る",
+      "examples": []
+    },
+    {
+      "kanji": "会",
+      "onyomi": "エ、カイ",
+      "kunyomi": "あ.う、あ.わせる、あつ.まる",
+      "meaning": "association, interview, join, meet, meeting, party",
+      "strokes": 6,
+      "audio_text": "エ、カイ、あ.う、あ.わせる、あつ.まる",
+      "examples": []
+    },
+    {
+      "kanji": "使",
+      "onyomi": "シ",
+      "kunyomi": "-つか.い、-づか.い、つか.い、つか.う",
+      "meaning": "ambassador, cause, envoy, messenger, order, send on a mission, use",
+      "strokes": 8,
+      "audio_text": "シ、-つか.い、-づか.い、つか.い、つか.う",
+      "examples": []
+    },
+    {
+      "kanji": "作",
+      "onyomi": "サ、サク",
+      "kunyomi": "-づく.り、つく.り、つく.る",
+      "meaning": "build, make, prepare, production",
+      "strokes": 7,
+      "audio_text": "サ、サク、-づく.り、つく.り、つく.る",
+      "examples": []
+    },
+    {
+      "kanji": "住",
+      "onyomi": "ジュウ、チュウ、ヂュウ",
+      "kunyomi": "-ず.まい、す.まう、す.む",
+      "meaning": "dwell, inhabit, live, reside",
+      "strokes": 7,
+      "audio_text": "ジュウ、チュウ、ヂュウ、-ず.まい、す.まう、す.む",
+      "examples": []
+    },
+    {
+      "kanji": "働",
+      "onyomi": "ドウ",
+      "kunyomi": "はたら.く",
+      "meaning": "(kokuji), work",
+      "strokes": 13,
+      "audio_text": "ドウ、はたら.く",
+      "examples": []
+    },
+    {
+      "kanji": "勉",
+      "onyomi": "ベン",
+      "kunyomi": "つと.める",
+      "meaning": "diligent, encourage, endeavour, exertion, make effort, strive",
+      "strokes": 10,
+      "audio_text": "ベン、つと.める",
+      "examples": []
+    },
+    {
+      "kanji": "強",
+      "onyomi": "キョウ、ゴウ",
+      "kunyomi": "こわ.い、し.いる、つよ.い、つよ.まる、つよ.める",
+      "meaning": "strong",
+      "strokes": 11,
+      "audio_text": "キョウ、ゴウ、こわ.い、し.いる、つよ.い、つよ.まる、つよ.める",
+      "examples": []
+    },
+    {
+      "kanji": "教",
+      "onyomi": "キョウ",
+      "kunyomi": "おし.える、おそ.わる",
+      "meaning": "doctrine, faith, teach",
+      "strokes": 11,
+      "audio_text": "キョウ、おし.える、おそ.わる",
+      "examples": []
+    },
+    {
+      "kanji": "思",
+      "onyomi": "シ",
+      "kunyomi": "おぼ.す、おも.う、おもえら.く",
+      "meaning": "think",
+      "strokes": 9,
+      "audio_text": "シ、おぼ.す、おも.う、おもえら.く",
+      "examples": []
+    },
+    {
+      "kanji": "答",
+      "onyomi": "トウ",
+      "kunyomi": "こた.え、こた.える",
+      "meaning": "answer, solution",
+      "strokes": 12,
+      "audio_text": "トウ、こた.え、こた.える",
+      "examples": []
+    },
+    {
+      "kanji": "知",
+      "onyomi": "チ",
+      "kunyomi": "し.らせる、し.る",
+      "meaning": "know, wisdom",
+      "strokes": 8,
+      "audio_text": "チ、し.らせる、し.る",
+      "examples": []
+    },
+    {
+      "kanji": "貸",
+      "onyomi": "タイ",
+      "kunyomi": "か.し-、か.す、かし-",
+      "meaning": "lend",
+      "strokes": 12,
+      "audio_text": "タイ、か.し-、か.す、かし-",
+      "examples": []
+    },
+    {
+      "kanji": "借",
+      "onyomi": "シャク",
+      "kunyomi": "か.りる",
+      "meaning": "borrow, rent",
+      "strokes": 10,
+      "audio_text": "シャク、か.りる",
+      "examples": []
+    },
+    {
+      "kanji": "送",
+      "onyomi": "ソウ",
+      "kunyomi": "おく.る",
+      "meaning": "escort, send",
+      "strokes": 9,
+      "audio_text": "ソウ、おく.る",
+      "examples": []
+    },
+    {
+      "kanji": "開",
+      "onyomi": "カイ",
+      "kunyomi": "-びら.き、あ.く、あ.ける、ひら.き、ひら.く、ひら.ける",
+      "meaning": "open, unfold, unseal",
+      "strokes": 12,
+      "audio_text": "カイ、-びら.き、あ.く、あ.ける、ひら.き、ひら.く、ひら.ける",
+      "examples": []
+    },
+    {
+      "kanji": "閉",
+      "onyomi": "ヘイ",
+      "kunyomi": "し.まる、し.める、た.てる、と.ざす、と.じる",
+      "meaning": "closed, shut",
+      "strokes": 11,
+      "audio_text": "ヘイ、し.まる、し.める、た.てる、と.ざす、と.じる",
+      "examples": []
+    },
+    {
+      "kanji": "待",
+      "onyomi": "タイ",
+      "kunyomi": "-ま.ち、ま.つ",
+      "meaning": "depend on, wait",
+      "strokes": 9,
+      "audio_text": "タイ、-ま.ち、ま.つ",
+      "examples": []
+    },
+    {
+      "kanji": "持",
+      "onyomi": "ジ",
+      "kunyomi": "-も.ち、も.つ、も.てる",
+      "meaning": "have, hold",
+      "strokes": 9,
+      "audio_text": "ジ、-も.ち、も.つ、も.てる",
+      "examples": []
+    },
+    {
+      "kanji": "死",
+      "onyomi": "シ",
+      "kunyomi": "し.に-、し.ぬ",
+      "meaning": "death, die",
+      "strokes": 6,
+      "audio_text": "シ、し.に-、し.ぬ",
+      "examples": []
+    },
+    {
+      "kanji": "走",
+      "onyomi": "ソウ",
+      "kunyomi": "はし.る",
+      "meaning": "run",
+      "strokes": 7,
+      "audio_text": "ソウ、はし.る",
+      "examples": []
+    },
+    {
+      "kanji": "起",
+      "onyomi": "キ",
+      "kunyomi": "お.きる、お.こす、お.こる、おこ.す、た.つ",
+      "meaning": "get up, rouse, wake up",
+      "strokes": 10,
+      "audio_text": "キ、お.きる、お.こす、お.こる、おこ.す、た.つ",
+      "examples": []
+    },
+    {
+      "kanji": "着",
+      "onyomi": "ジャク、チャク",
+      "kunyomi": "き.せる、き.る、つ.く、つ.ける",
+      "meaning": "arrive, counter for suits of clothing, don, wear",
+      "strokes": 12,
+      "audio_text": "ジャク、チャク、き.せる、き.る、つ.く、つ.ける",
+      "examples": []
+    },
+    {
+      "kanji": "売",
+      "onyomi": "バイ",
+      "kunyomi": "う.る、う.れる",
+      "meaning": "sell",
+      "strokes": 7,
+      "audio_text": "バイ、う.る、う.れる",
+      "examples": []
+    },
+    {
+      "kanji": "洗",
+      "onyomi": "セン",
+      "kunyomi": "あら.う",
+      "meaning": "inquire into, probe, wash",
+      "strokes": 9,
+      "audio_text": "セン、あら.う",
+      "examples": []
+    },
+    {
+      "kanji": "遊",
+      "onyomi": "ユ、ユウ",
+      "kunyomi": "あそ.ばす、あそ.ぶ",
+      "meaning": "play",
+      "strokes": 12,
+      "audio_text": "ユ、ユウ、あそ.ばす、あそ.ぶ",
+      "examples": []
+    },
+    {
+      "kanji": "運",
+      "onyomi": "ウン",
+      "kunyomi": "はこ.ぶ",
+      "meaning": "advance, carry, destiny, fate, lot, luck, progress, transport",
+      "strokes": 12,
+      "audio_text": "ウン、はこ.ぶ",
+      "examples": []
+    },
+    {
+      "kanji": "動",
+      "onyomi": "ドウ",
+      "kunyomi": "うご.かす、うご.く",
+      "meaning": "change, confusion, motion, move, shake, shift",
+      "strokes": 11,
+      "audio_text": "ドウ、うご.かす、うご.く",
+      "examples": []
+    },
+    {
+      "kanji": "勝",
+      "onyomi": "ショウ",
+      "kunyomi": "-が.ち、か.つ、かつ、すぐ.れる、まさ.る",
+      "meaning": "excel, prevail, victory, win",
+      "strokes": 12,
+      "audio_text": "ショウ、-が.ち、か.つ、かつ、すぐ.れる、まさ.る",
+      "examples": []
+    },
+    {
+      "kanji": "負",
+      "onyomi": "フ",
+      "kunyomi": "お.う、ま.かす、ま.ける",
+      "meaning": "-, assume a responsibility, bear, defeat, minus, negative, owe",
+      "strokes": 9,
+      "audio_text": "フ、お.う、ま.かす、ま.ける",
+      "examples": []
+    },
+    {
+      "kanji": "切",
+      "onyomi": "サイ、セツ",
+      "kunyomi": "-き.り、-き.る、-き.れ、-き.れる、-ぎ.り、-ぎ.れ、き.り、き.る、き.れ、き.れる",
+      "meaning": "be sharp, cut, cutoff",
+      "strokes": 4,
+      "audio_text": "サイ、セツ、-き.り、-き.る、-き.れ、-き.れる、-ぎ.り、-ぎ.れ、き.り、き.る、き.れ、き.れる",
+      "examples": []
+    },
+    {
+      "kanji": "押",
+      "onyomi": "オウ",
+      "kunyomi": "お.さえる、お.し-、お.す、お.っ-、おさ.える",
+      "meaning": "attach, check, do in spite of, press, push, seal, seize, shove, stop, subdue, weight",
+      "strokes": 8,
+      "audio_text": "オウ、お.さえる、お.し-、お.す、お.っ-、おさ.える",
+      "examples": []
+    },
+    {
+      "kanji": "引",
+      "onyomi": "イン",
+      "kunyomi": "ひ.く、ひ.ける",
+      "meaning": "admit, install, jerk, pull, quote, refer to, tug",
+      "strokes": 4,
+      "audio_text": "イン、ひ.く、ひ.ける",
+      "examples": []
+    },
+    {
+      "kanji": "写",
+      "onyomi": "シャ、ジャ",
+      "kunyomi": "うつ-、うつ.し、うつ.す、うつ.る",
+      "meaning": "be photographed, copy, describe",
+      "strokes": 5,
+      "audio_text": "シャ、ジャ、うつ-、うつ.し、うつ.す、うつ.る",
+      "examples": []
+    },
+    {
+      "kanji": "店",
+      "onyomi": "テン",
+      "kunyomi": "たな、みせ",
+      "meaning": "shop, store",
+      "strokes": 8,
+      "audio_text": "テン、たな、みせ",
+      "examples": []
+    },
+    {
+      "kanji": "室",
+      "onyomi": "シツ",
+      "kunyomi": "むろ",
+      "meaning": "apartment, cellar, chamber, greenhouse, room",
+      "strokes": 9,
+      "audio_text": "シツ、むろ",
+      "examples": []
+    },
+    {
+      "kanji": "病",
+      "onyomi": "ビョウ、ヘイ",
+      "kunyomi": "-や.み、や.む、やまい",
+      "meaning": "ill, sick",
+      "strokes": 10,
+      "audio_text": "ビョウ、ヘイ、-や.み、や.む、やまい",
+      "examples": []
+    },
+    {
+      "kanji": "院",
+      "onyomi": "イン",
+      "kunyomi": "",
+      "meaning": "Inst., institution, mansion, school, temple",
+      "strokes": 10,
+      "audio_text": "イン",
+      "examples": []
+    },
+    {
+      "kanji": "駅",
+      "onyomi": "エキ",
+      "kunyomi": "",
+      "meaning": "station",
+      "strokes": 14,
+      "audio_text": "エキ",
+      "examples": []
+    },
+    {
+      "kanji": "市",
+      "onyomi": "シ",
+      "kunyomi": "いち",
+      "meaning": "city, market, town",
+      "strokes": 5,
+      "audio_text": "シ、いち",
+      "examples": []
+    },
+    {
+      "kanji": "町",
+      "onyomi": "チョウ",
+      "kunyomi": "まち",
+      "meaning": "block, street, town, village",
+      "strokes": 7,
+      "audio_text": "チョウ、まち",
+      "examples": []
+    },
+    {
+      "kanji": "村",
+      "onyomi": "ソン",
+      "kunyomi": "むら",
+      "meaning": "town, village",
+      "strokes": 7,
+      "audio_text": "ソン、むら",
+      "examples": []
+    },
+    {
+      "kanji": "近",
+      "onyomi": "キン、コン",
+      "kunyomi": "ちか.い",
+      "meaning": "akin, early, near, tantamount",
+      "strokes": 7,
+      "audio_text": "キン、コン、ちか.い",
+      "examples": []
+    },
+    {
+      "kanji": "遠",
+      "onyomi": "エン、オン",
+      "kunyomi": "とお.い",
+      "meaning": "distant, far",
+      "strokes": 13,
+      "audio_text": "エン、オン、とお.い",
+      "examples": []
+    },
+    {
+      "kanji": "太",
+      "onyomi": "タ、タイ",
+      "kunyomi": "ふと.い、ふと.る",
+      "meaning": "big around, plump, thick",
+      "strokes": 4,
+      "audio_text": "タ、タイ、ふと.い、ふと.る",
+      "examples": []
+    },
+    {
+      "kanji": "細",
+      "onyomi": "サイ",
+      "kunyomi": "こま.か、こま.かい、ほそ.い、ほそ.る",
+      "meaning": "dainty, detailed, get thin, narrow, precise, slender, taper",
+      "strokes": 11,
+      "audio_text": "サイ、こま.か、こま.かい、ほそ.い、ほそ.る",
+      "examples": []
+    },
+    {
+      "kanji": "重",
+      "onyomi": "ジュウ、チョウ",
+      "kunyomi": "え、おも、おも.い、おも.なう、おも.り、かさ.なる、かさ.ねる",
+      "meaning": "-fold, esteem, heap up, heavy, important, nest of boxes, pile up, respect",
+      "strokes": 9,
+      "audio_text": "ジュウ、チョウ、え、おも、おも.い、おも.なう、おも.り、かさ.なる、かさ.ねる",
+      "examples": []
+    },
+    {
+      "kanji": "軽",
+      "onyomi": "キョウ、キン、ケイ",
+      "kunyomi": "かる.い、かろ.やか、かろ.んじる",
+      "meaning": "lightly, trifling, unimportant",
+      "strokes": 12,
+      "audio_text": "キョウ、キン、ケイ、かる.い、かろ.やか、かろ.んじる",
+      "examples": []
+    },
+    {
+      "kanji": "速",
+      "onyomi": "ソク",
+      "kunyomi": "すみ.やか、はや-、はや.い、はや.める",
+      "meaning": "fast, quick",
+      "strokes": 10,
+      "audio_text": "ソク、すみ.やか、はや-、はや.い、はや.める",
+      "examples": []
+    },
+    {
+      "kanji": "遅",
+      "onyomi": "チ",
+      "kunyomi": "おく.らす、おく.れる、おそ.い",
+      "meaning": "back, late, later, slow",
+      "strokes": 12,
+      "audio_text": "チ、おく.らす、おく.れる、おそ.い",
+      "examples": []
+    },
+    {
+      "kanji": "物",
+      "onyomi": "ブツ、モツ",
+      "kunyomi": "もの、もの-",
+      "meaning": "matter, object, thing",
+      "strokes": 8,
+      "audio_text": "ブツ、モツ、もの、もの-",
+      "examples": []
+    },
+    {
+      "kanji": "品",
+      "onyomi": "ヒン、ホン",
+      "kunyomi": "しな",
+      "meaning": "article, counter for meal courses, dignity, goods, refinement",
+      "strokes": 9,
+      "audio_text": "ヒン、ホン、しな",
+      "examples": []
+    },
+    {
+      "kanji": "品",
+      "onyomi": "ヒン、ホン",
+      "kunyomi": "しな",
+      "meaning": "article, counter for meal courses, dignity, goods, refinement",
+      "strokes": 9,
+      "audio_text": "ヒン、ホン、しな",
+      "examples": []
+    },
+    {
+      "kanji": "服",
+      "onyomi": "フク",
+      "kunyomi": "",
+      "meaning": "admit, clothing, discharge, obey",
+      "strokes": 8,
+      "audio_text": "フク",
+      "examples": []
+    },
+    {
+      "kanji": "色",
+      "onyomi": "シキ、ショク",
+      "kunyomi": "いろ",
+      "meaning": "color",
+      "strokes": 6,
+      "audio_text": "シキ、ショク、いろ",
+      "examples": []
+    },
+    {
+      "kanji": "紙",
+      "onyomi": "シ",
+      "kunyomi": "かみ",
+      "meaning": "paper",
+      "strokes": 10,
+      "audio_text": "シ、かみ",
+      "examples": []
+    },
+    {
+      "kanji": "風",
+      "onyomi": "フ、フウ",
+      "kunyomi": "かざ-、かぜ",
+      "meaning": "air, manner, style, wind",
+      "strokes": 9,
+      "audio_text": "フ、フウ、かざ-、かぜ",
+      "examples": []
+    },
+    {
+      "kanji": "花",
+      "onyomi": "カ、ケ",
+      "kunyomi": "はな",
+      "meaning": "flower",
+      "strokes": 7,
+      "audio_text": "カ、ケ、はな",
+      "examples": []
+    },
+    {
+      "kanji": "肉",
+      "onyomi": "ニク",
+      "kunyomi": "しし",
+      "meaning": "meat",
+      "strokes": 6,
+      "audio_text": "ニク、しし",
+      "examples": []
+    },
+    {
+      "kanji": "魚",
+      "onyomi": "ギョ",
+      "kunyomi": "-ざかな、うお、さかな",
+      "meaning": "fish",
+      "strokes": 11,
+      "audio_text": "ギョ、-ざかな、うお、さかな",
+      "examples": []
+    },
+    {
+      "kanji": "料",
+      "onyomi": "リョウ",
+      "kunyomi": "",
+      "meaning": "fee, materials",
+      "strokes": 10,
+      "audio_text": "リョウ",
+      "examples": []
+    },
+    {
+      "kanji": "理",
+      "onyomi": "リ",
+      "kunyomi": "ことわり",
+      "meaning": "arrangement, justice, logic, reason, truth",
+      "strokes": 11,
+      "audio_text": "リ、ことわり",
+      "examples": []
+    },
+    {
+      "kanji": "味",
+      "onyomi": "ミ",
+      "kunyomi": "あじ、あじ.わう",
+      "meaning": "flavor, taste",
+      "strokes": 8,
+      "audio_text": "ミ、あじ、あじ.わう",
+      "examples": []
+    },
+    {
+      "kanji": "茶",
+      "onyomi": "サ、チャ",
+      "kunyomi": "",
+      "meaning": "tea",
+      "strokes": 9,
+      "audio_text": "サ、チャ",
+      "examples": []
+    },
+    {
+      "kanji": "飯",
+      "onyomi": "ハン",
+      "kunyomi": "めし",
+      "meaning": "boiled rice, meal",
+      "strokes": 12,
+      "audio_text": "ハン、めし",
+      "examples": []
+    },
+    {
+      "kanji": "犬",
+      "onyomi": "ケン",
+      "kunyomi": "いぬ、いぬ-",
+      "meaning": "dog",
+      "strokes": 4,
+      "audio_text": "ケン、いぬ、いぬ-",
+      "examples": []
+    },
+    {
+      "kanji": "猫",
+      "onyomi": "ビョウ",
+      "kunyomi": "ねこ",
+      "meaning": "cat",
+      "strokes": 11,
+      "audio_text": "ビョウ、ねこ",
+      "examples": []
+    },
+    {
+      "kanji": "便",
+      "onyomi": "ビン、ベン",
+      "kunyomi": "たよ.り",
+      "meaning": "chance, convenience, excrement, facility, feces, letter",
+      "strokes": 9,
+      "audio_text": "ビン、ベン、たよ.り",
+      "examples": []
+    },
+    {
+      "kanji": "利",
+      "onyomi": "リ",
+      "kunyomi": "き.く",
+      "meaning": "advantage, benefit, profit",
+      "strokes": 7,
+      "audio_text": "リ、き.く",
+      "examples": []
+    },
+    {
+      "kanji": "不",
+      "onyomi": "フ、ブ",
+      "kunyomi": "",
+      "meaning": "bad, clumsy, negative, non-, ugly",
+      "strokes": 4,
+      "audio_text": "フ、ブ",
+      "examples": []
+    },
+    {
+      "kanji": "悪",
+      "onyomi": "アク、オ",
+      "kunyomi": "-にく.い、あ.し、ああ、いずくに、いずくんぞ、にく.い、にく.む、わる-、わる.い",
+      "meaning": "bad, evil, false, rascal, vice, wrong",
+      "strokes": 11,
+      "audio_text": "アク、オ、-にく.い、あ.し、ああ、いずくに、いずくんぞ、にく.い、にく.む、わる-、わる.い",
+      "examples": []
+    },
+    {
+      "kanji": "同",
+      "onyomi": "ドウ",
+      "kunyomi": "おな.じ",
+      "meaning": "agree, equal, same",
+      "strokes": 6,
+      "audio_text": "ドウ、おな.じ",
+      "examples": []
+    },
+    {
+      "kanji": "正",
+      "onyomi": "ショウ、セイ",
+      "kunyomi": "ただ.しい、ただ.す、まさ、まさ.に",
+      "meaning": "10**40, correct, justice, righteous",
+      "strokes": 5,
+      "audio_text": "ショウ、セイ、ただ.しい、ただ.す、まさ、まさ.に",
+      "examples": []
+    },
+    {
+      "kanji": "反",
+      "onyomi": "タン、ハン、ホ、ホン",
+      "kunyomi": "-かえ.る、かえ.す、かえ.る、そ.らす、そ.る",
+      "meaning": "anti-",
+      "strokes": 4,
+      "audio_text": "タン、ハン、ホ、ホン、-かえ.る、かえ.す、かえ.る、そ.らす、そ.る",
+      "examples": []
+    },
+    {
+      "kanji": "若",
+      "onyomi": "ジャク、ニャ、ニャク",
+      "kunyomi": "ごと.し、も.し、も.しくは、も.しくわ、わか-、わか.い",
+      "meaning": "if, immature, low number, perhaps, possibly, young",
+      "strokes": 8,
+      "audio_text": "ジャク、ニャ、ニャク、ごと.し、も.し、も.しくは、も.しくわ、わか-、わか.い",
+      "examples": []
+    },
+    {
+      "kanji": "元",
+      "onyomi": "ガン、ゲン",
+      "kunyomi": "もと",
+      "meaning": "beginning, former time, origin",
+      "strokes": 4,
+      "audio_text": "ガン、ゲン、もと",
+      "examples": []
+    },
+    {
+      "kanji": "丸",
+      "onyomi": "ガン",
+      "kunyomi": "まる、まる.い、まる.める",
+      "meaning": "-ship, curl up, explain away, full (month), make round, perfection, pills, roll up, round, seduce",
+      "strokes": 3,
+      "audio_text": "ガン、まる、まる.い、まる.める",
+      "examples": []
+    },
+    {
+      "kanji": "太",
+      "onyomi": "タ、タイ",
+      "kunyomi": "ふと.い、ふと.る",
+      "meaning": "big around, plump, thick",
+      "strokes": 4,
+      "audio_text": "タ、タイ、ふと.い、ふと.る",
+      "examples": []
+    },
+    {
+      "kanji": "赤",
+      "onyomi": "シャク、セキ",
+      "kunyomi": "あか、あか-、あか.い、あか.らむ、あか.らめる",
+      "meaning": "red",
+      "strokes": 7,
+      "audio_text": "シャク、セキ、あか、あか-、あか.い、あか.らむ、あか.らめる",
+      "examples": []
+    },
+    {
+      "kanji": "青",
+      "onyomi": "ショウ、セイ",
+      "kunyomi": "あお、あお-、あお.い",
+      "meaning": "blue, green",
+      "strokes": 8,
+      "audio_text": "ショウ、セイ、あお、あお-、あお.い",
+      "examples": []
+    },
+    {
+      "kanji": "黒",
+      "onyomi": "コク",
+      "kunyomi": "くろ、くろ.い、くろ.ずむ",
+      "meaning": "black",
+      "strokes": 11,
+      "audio_text": "コク、くろ、くろ.い、くろ.ずむ",
+      "examples": []
+    },
+    {
+      "kanji": "的",
+      "onyomi": "テキ",
+      "kunyomi": "まと",
+      "meaning": "adjective ending, bull's eye, mark, object, target",
+      "strokes": 8,
+      "audio_text": "テキ、まと",
+      "examples": []
+    },
+    {
+      "kanji": "事",
+      "onyomi": "ジ、ズ",
+      "kunyomi": "こと、つか.う、つか.える",
+      "meaning": "business, fact, matter, possibly, reason, thing",
+      "strokes": 8,
+      "audio_text": "ジ、ズ、こと、つか.う、つか.える",
+      "examples": []
+    },
+    {
+      "kanji": "自",
+      "onyomi": "シ、ジ",
+      "kunyomi": "おの.ずから、おの.ずと、みずか.ら",
+      "meaning": "oneself",
+      "strokes": 6,
+      "audio_text": "シ、ジ、おの.ずから、おの.ずと、みずか.ら",
+      "examples": []
+    },
+    {
+      "kanji": "分",
+      "onyomi": "フン、ブ、ブン",
+      "kunyomi": "わ.かつ、わ.かる、わ.かれる、わ.け、わ.ける",
+      "meaning": "1%, chances, degree, duty, know, minute of time, one's lot, part, rate, segment, shaku/100, share, understand",
+      "strokes": 4,
+      "audio_text": "フン、ブ、ブン、わ.かつ、わ.かる、わ.かれる、わ.け、わ.ける",
+      "examples": []
+    },
+    {
+      "kanji": "意",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "care, desire, heart, idea, liking, mind, taste, thought",
+      "strokes": 13,
+      "audio_text": "イ",
+      "examples": []
+    },
+    {
+      "kanji": "考",
+      "onyomi": "コウ",
+      "kunyomi": "かんが.え、かんが.える",
+      "meaning": "consider, think over",
+      "strokes": 6,
+      "audio_text": "コウ、かんが.え、かんが.える",
+      "examples": []
+    },
+    {
+      "kanji": "注",
+      "onyomi": "チュウ",
+      "kunyomi": "さ.す、そそ.ぐ、つ.ぐ",
+      "meaning": "annotate, comment, concentrate on, flow into, irrigate, notes, pour, shed (tears)",
+      "strokes": 8,
+      "audio_text": "チュウ、さ.す、そそ.ぐ、つ.ぐ",
+      "examples": []
+    },
+    {
+      "kanji": "意",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "care, desire, heart, idea, liking, mind, taste, thought",
+      "strokes": 13,
+      "audio_text": "イ",
+      "examples": []
+    },
+    {
+      "kanji": "用",
+      "onyomi": "ヨウ",
+      "kunyomi": "もち.いる",
+      "meaning": "business, employ, service, use, utilize",
+      "strokes": 5,
+      "audio_text": "ヨウ、もち.いる",
+      "examples": []
+    },
+    {
+      "kanji": "特",
+      "onyomi": "トク",
+      "kunyomi": "",
+      "meaning": "special",
+      "strokes": 10,
+      "audio_text": "トク",
+      "examples": []
+    },
+    {
+      "kanji": "別",
+      "onyomi": "ベツ",
+      "kunyomi": "わ.ける、わか.れる",
+      "meaning": "another, branch off, diverge, extra, fork, separate, specially",
+      "strokes": 7,
+      "audio_text": "ベツ、わ.ける、わか.れる",
+      "examples": []
+    },
+    {
+      "kanji": "質",
+      "onyomi": "シチ、シツ、チ",
+      "kunyomi": "ただ.す、たち、もと、わりふ",
+      "meaning": "matter, quality, substance, temperament",
+      "strokes": 15,
+      "audio_text": "シチ、シツ、チ、ただ.す、たち、もと、わりふ",
+      "examples": []
+    },
+    {
+      "kanji": "問",
+      "onyomi": "モン",
+      "kunyomi": "と.い、と.う、とん",
+      "meaning": "ask, problem, question",
+      "strokes": 11,
+      "audio_text": "モン、と.い、と.う、とん",
+      "examples": []
+    },
+    {
+      "kanji": "題",
+      "onyomi": "ダイ",
+      "kunyomi": "",
+      "meaning": "subject, topic",
+      "strokes": 18,
+      "audio_text": "ダイ",
+      "examples": []
+    },
+    {
+      "kanji": "計",
+      "onyomi": "ケイ",
+      "kunyomi": "はか.らう、はか.る",
+      "meaning": "measure, plan, plot, scheme",
+      "strokes": 9,
+      "audio_text": "ケイ、はか.らう、はか.る",
+      "examples": []
+    },
+    {
+      "kanji": "画",
+      "onyomi": "エ、カイ、カク、ガ",
+      "kunyomi": "えが.く、かぎ.る、かく.する、はか.る、はかりごと",
+      "meaning": "brush-stroke, picture",
+      "strokes": 8,
+      "audio_text": "エ、カイ、カク、ガ、えが.く、かぎ.る、かく.する、はか.る、はかりごと",
+      "examples": []
+    },
+    {
+      "kanji": "建",
+      "onyomi": "ケン、コン",
+      "kunyomi": "-だ.て、た.つ、た.て、た.てる",
+      "meaning": "build",
+      "strokes": 9,
+      "audio_text": "ケン、コン、-だ.て、た.つ、た.て、た.てる",
+      "examples": []
+    },
+    {
+      "kanji": "者",
+      "onyomi": "シャ",
+      "kunyomi": "もの",
+      "meaning": "person, someone",
+      "strokes": 8,
+      "audio_text": "シャ、もの",
+      "examples": []
+    },
+    {
+      "kanji": "業",
+      "onyomi": "ギョウ、ゴウ",
+      "kunyomi": "わざ",
+      "meaning": "arts, business, performance, vocation",
+      "strokes": 13,
+      "audio_text": "ギョウ、ゴウ、わざ",
+      "examples": []
+    },
+    {
+      "kanji": "仕",
+      "onyomi": "シ、ジ",
+      "kunyomi": "つか.える",
+      "meaning": "attend, doing, official, serve",
+      "strokes": 5,
+      "audio_text": "シ、ジ、つか.える",
+      "examples": []
+    },
+    {
+      "kanji": "研",
+      "onyomi": "ケン",
+      "kunyomi": "と.ぐ",
+      "meaning": "polish, sharpen, study of",
+      "strokes": 9,
+      "audio_text": "ケン、と.ぐ",
+      "examples": []
+    },
+    {
+      "kanji": "究",
+      "onyomi": "キュウ、ク",
+      "kunyomi": "きわ.める",
+      "meaning": "research, study",
+      "strokes": 7,
+      "audio_text": "キュウ、ク、きわ.める",
+      "examples": []
+    },
+    {
+      "kanji": "映",
+      "onyomi": "エイ",
+      "kunyomi": "-ば.え、うつ.す、うつ.る、は.える",
+      "meaning": "projection, reflect, reflection",
+      "strokes": 9,
+      "audio_text": "エイ、-ば.え、うつ.す、うつ.る、は.える",
+      "examples": []
+    },
+    {
+      "kanji": "画",
+      "onyomi": "エ、カイ、カク、ガ",
+      "kunyomi": "えが.く、かぎ.る、かく.する、はか.る、はかりごと",
+      "meaning": "brush-stroke, picture",
+      "strokes": 8,
+      "audio_text": "エ、カイ、カク、ガ、えが.く、かぎ.る、かく.する、はか.る、はかりごと",
+      "examples": []
+    },
+    {
+      "kanji": "歌",
+      "onyomi": "カ",
+      "kunyomi": "うた、うた.う",
+      "meaning": "sing, song",
+      "strokes": 14,
+      "audio_text": "カ、うた、うた.う",
+      "examples": []
+    },
+    {
+      "kanji": "引",
+      "onyomi": "イン",
+      "kunyomi": "ひ.く、ひ.ける",
+      "meaning": "admit, install, jerk, pull, quote, refer to, tug",
+      "strokes": 4,
+      "audio_text": "イン、ひ.く、ひ.ける",
+      "examples": []
+    },
+    {
+      "kanji": "声",
+      "onyomi": "ショウ、セイ",
+      "kunyomi": "こえ、こわ-",
+      "meaning": "voice",
+      "strokes": 7,
+      "audio_text": "ショウ、セイ、こえ、こわ-",
+      "examples": []
+    },
+    {
+      "kanji": "英",
+      "onyomi": "エイ",
+      "kunyomi": "はなぶさ",
+      "meaning": "England, English, calyx, hero, outstanding",
+      "strokes": 8,
+      "audio_text": "エイ、はなぶさ",
+      "examples": []
+    },
+    {
+      "kanji": "漢",
+      "onyomi": "カン",
+      "kunyomi": "",
+      "meaning": "China, Sino-",
+      "strokes": 13,
+      "audio_text": "カン",
+      "examples": []
+    },
+    {
+      "kanji": "字",
+      "onyomi": "ジ",
+      "kunyomi": "-な、あざ、あざな",
+      "meaning": "character, letter, section of village, word",
+      "strokes": 6,
+      "audio_text": "ジ、-な、あざ、あざな",
+      "examples": []
+    },
+    {
+      "kanji": "記",
+      "onyomi": "キ",
+      "kunyomi": "しる.す",
+      "meaning": "account, narrative, scribe",
+      "strokes": 10,
+      "audio_text": "キ、しる.す",
+      "examples": []
+    },
+    {
+      "kanji": "説",
+      "onyomi": "セツ、ゼイ",
+      "kunyomi": "と.く",
+      "meaning": "explanation, opinion, rumor, theory",
+      "strokes": 14,
+      "audio_text": "セツ、ゼイ、と.く",
+      "examples": []
+    },
+    {
+      "kanji": "注",
+      "onyomi": "チュウ",
+      "kunyomi": "さ.す、そそ.ぐ、つ.ぐ",
+      "meaning": "annotate, comment, concentrate on, flow into, irrigate, notes, pour, shed (tears)",
+      "strokes": 8,
+      "audio_text": "チュウ、さ.す、そそ.ぐ、つ.ぐ",
+      "examples": []
+    },
+    {
+      "kanji": "暑",
+      "onyomi": "ショ",
+      "kunyomi": "あつ.い",
+      "meaning": "hot, sultry, summer heat",
+      "strokes": 12,
+      "audio_text": "ショ、あつ.い",
+      "examples": []
+    },
+    {
+      "kanji": "寒",
+      "onyomi": "カン",
+      "kunyomi": "さむ.い",
+      "meaning": "cold",
+      "strokes": 12,
+      "audio_text": "カン、さむ.い",
+      "examples": []
+    },
+    {
+      "kanji": "熱",
+      "onyomi": "ネツ",
+      "kunyomi": "あつ.い",
+      "meaning": "fever, heat, mania, passion, temperature",
+      "strokes": 15,
+      "audio_text": "ネツ、あつ.い",
+      "examples": []
+    },
+    {
+      "kanji": "冷",
+      "onyomi": "レイ",
+      "kunyomi": "さ.ます、さ.める、つめ.たい、ひ.える、ひ.や、ひ.やかす、ひ.やす、ひ.ややか",
+      "meaning": "chill, cold (beer, person), cool",
+      "strokes": 7,
+      "audio_text": "レイ、さ.ます、さ.める、つめ.たい、ひ.える、ひ.や、ひ.やかす、ひ.やす、ひ.ややか",
+      "examples": []
+    },
+    {
+      "kanji": "空",
+      "onyomi": "クウ",
+      "kunyomi": "あ.き、あ.く、あ.ける、から、す.かす、す.く、そら、むな.しい",
+      "meaning": "empty, sky, vacant, vacuum, void",
+      "strokes": 8,
+      "audio_text": "クウ、あ.き、あ.く、あ.ける、から、す.かす、す.く、そら、むな.しい",
+      "examples": []
+    },
+    {
+      "kanji": "消",
+      "onyomi": "ショウ",
+      "kunyomi": "き.える、け.す",
+      "meaning": "blow out, cancel, extinguish, neutralize, turn off",
+      "strokes": 10,
+      "audio_text": "ショウ、き.える、け.す",
+      "examples": []
+    },
+    {
+      "kanji": "有",
+      "onyomi": "ウ、ユウ",
+      "kunyomi": "あ.る",
+      "meaning": "approx, exist, happen, have, occur, possess",
+      "strokes": 6,
+      "audio_text": "ウ、ユウ、あ.る",
+      "examples": []
+    },
+    {
+      "kanji": "無",
+      "onyomi": "ブ、ム",
+      "kunyomi": "な.い",
+      "meaning": "ain't, nil, none, not, nothing, nothingness",
+      "strokes": 12,
+      "audio_text": "ブ、ム、な.い",
+      "examples": []
+    },
+    {
+      "kanji": "真",
+      "onyomi": "シン",
+      "kunyomi": "ま、ま-、まこと",
+      "meaning": "Buddhist sect, reality, true",
+      "strokes": 10,
+      "audio_text": "シン、ま、ま-、まこと",
+      "examples": []
+    },
+    {
+      "kanji": "実",
+      "onyomi": "シツ、ジツ",
+      "kunyomi": "まこと、み、みち.る、みの、みの.る",
+      "meaning": "fruit, nut, reality, seed, truth",
+      "strokes": 8,
+      "audio_text": "シツ、ジツ、まこと、み、みち.る、みの、みの.る",
+      "examples": []
+    },
+    {
+      "kanji": "安",
+      "onyomi": "アン",
+      "kunyomi": "やす、やす.い、やす.まる、やす.らか",
+      "meaning": "cheap, contented, low, peaceful, quiet, relax, rested",
+      "strokes": 6,
+      "audio_text": "アン、やす、やす.い、やす.まる、やす.らか",
+      "examples": []
+    },
+    {
+      "kanji": "全",
+      "onyomi": "ゼン",
+      "kunyomi": "すべ.て、まった.く",
+      "meaning": "all, complete, entire, fulfill, whole",
+      "strokes": 6,
+      "audio_text": "ゼン、すべ.て、まった.く",
+      "examples": []
+    },
+    {
+      "kanji": "危",
+      "onyomi": "キ",
+      "kunyomi": "あぶ.ない、あや.うい、あや.ぶむ",
+      "meaning": "dangerous, fear, uneasy",
+      "strokes": 6,
+      "audio_text": "キ、あぶ.ない、あや.うい、あや.ぶむ",
+      "examples": []
+    },
+    {
+      "kanji": "険",
+      "onyomi": "ケン",
+      "kunyomi": "けわ.しい",
+      "meaning": "impregnable position, inaccessible place, precipitous, sharp eyes, steep place",
+      "strokes": 11,
+      "audio_text": "ケン、けわ.しい",
+      "examples": []
+    },
+    {
+      "kanji": "道",
+      "onyomi": "トウ、ドウ",
+      "kunyomi": "いう、みち",
+      "meaning": "course, district, journey, moral, road-way, street, teachings",
+      "strokes": 12,
+      "audio_text": "トウ、ドウ、いう、みち",
+      "examples": []
+    },
+    {
+      "kanji": "通",
+      "onyomi": "ツ、ツウ",
+      "kunyomi": "-とお.り、-どお.し、-どお.り、かよ.う、とお.し、とお.す、とお.り、とお.る",
+      "meaning": "avenue, commute, counter for letters, notes, documents, etc., pass through, traffic",
+      "strokes": 10,
+      "audio_text": "ツ、ツウ、-とお.り、-どお.し、-どお.り、かよ.う、とお.し、とお.す、とお.り、とお.る",
+      "examples": []
+    },
+    {
+      "kanji": "乗",
+      "onyomi": "ショウ、ジョウ",
+      "kunyomi": "-の.り、の.せる、の.る",
+      "meaning": "board, counter for vehicles, join, mount, multiplication, power, record, ride",
+      "strokes": 9,
+      "audio_text": "ショウ、ジョウ、-の.り、の.せる、の.る",
+      "examples": []
+    },
+    {
+      "kanji": "発",
+      "onyomi": "ハツ、ホツ",
+      "kunyomi": "あば.く、おこ.る、た.つ、つか.わす、はな.つ",
+      "meaning": "counter for gunshots, departure, discharge, disclose, emit, publish, start from",
+      "strokes": 9,
+      "audio_text": "ハツ、ホツ、あば.く、おこ.る、た.つ、つか.わす、はな.つ",
+      "examples": []
+    },
+    {
+      "kanji": "着",
+      "onyomi": "ジャク、チャク",
+      "kunyomi": "き.せる、き.る、つ.く、つ.ける",
+      "meaning": "arrive, counter for suits of clothing, don, wear",
+      "strokes": 12,
+      "audio_text": "ジャク、チャク、き.せる、き.る、つ.く、つ.ける",
+      "examples": []
+    },
+    {
+      "kanji": "世",
+      "onyomi": "セ、セイ、ソウ",
+      "kunyomi": "よ",
+      "meaning": "generation, public, society, world",
+      "strokes": 5,
+      "audio_text": "セ、セイ、ソウ、よ",
+      "examples": []
+    },
+    {
+      "kanji": "界",
+      "onyomi": "カイ",
+      "kunyomi": "",
+      "meaning": "boundary, world",
+      "strokes": 9,
+      "audio_text": "カイ",
+      "examples": []
+    },
+    {
+      "kanji": "旅",
+      "onyomi": "リョ",
+      "kunyomi": "たび",
+      "meaning": "travel, trip",
+      "strokes": 10,
+      "audio_text": "リョ、たび",
+      "examples": []
+    },
+    {
+      "kanji": "場",
+      "onyomi": "ジョウ、チョウ",
+      "kunyomi": "ば",
+      "meaning": "location, place",
+      "strokes": 12,
+      "audio_text": "ジョウ、チョウ、ば",
+      "examples": []
+    },
+    {
+      "kanji": "所",
+      "onyomi": "ショ",
+      "kunyomi": "-ところ、とこ、ところ、どころ",
+      "meaning": "extent, place",
+      "strokes": 8,
+      "audio_text": "ショ、-ところ、とこ、ところ、どころ",
+      "examples": []
+    },
+    {
+      "kanji": "海",
+      "onyomi": "カイ",
+      "kunyomi": "うみ",
+      "meaning": "ocean, sea",
+      "strokes": 9,
+      "audio_text": "カイ、うみ",
+      "examples": []
+    },
+    {
+      "kanji": "野",
+      "onyomi": "ショ、ヤ",
+      "kunyomi": "の、の-",
+      "meaning": "civilian life, field, plains, rustic",
+      "strokes": 11,
+      "audio_text": "ショ、ヤ、の、の-",
+      "examples": []
+    },
+    {
+      "kanji": "林",
+      "onyomi": "リン",
+      "kunyomi": "はやし",
+      "meaning": "forest, grove",
+      "strokes": 8,
+      "audio_text": "リン、はやし",
+      "examples": []
+    },
+    {
+      "kanji": "森",
+      "onyomi": "シン",
+      "kunyomi": "もり",
+      "meaning": "forest, woods",
+      "strokes": 12,
+      "audio_text": "シン、もり",
+      "examples": []
+    },
+    {
+      "kanji": "石",
+      "onyomi": "コク、シャク、セキ",
+      "kunyomi": "いし",
+      "meaning": "stone",
+      "strokes": 5,
+      "audio_text": "コク、シャク、セキ、いし",
+      "examples": []
+    },
+    {
+      "kanji": "台",
+      "onyomi": "タイ、ダイ",
+      "kunyomi": "うてな、つかさ、われ",
+      "meaning": "a stand, counter for machines and vehicles, pedestal",
+      "strokes": 5,
+      "audio_text": "タイ、ダイ、うてな、つかさ、われ",
+      "examples": []
+    },
+    {
+      "kanji": "地",
+      "onyomi": "ジ、チ",
+      "kunyomi": "",
+      "meaning": "earth, ground",
+      "strokes": 6,
+      "audio_text": "ジ、チ",
+      "examples": []
+    },
+    {
+      "kanji": "夕",
+      "onyomi": "セキ",
+      "kunyomi": "ゆう",
+      "meaning": "evening",
+      "strokes": 3,
+      "audio_text": "セキ、ゆう",
+      "examples": []
+    },
+    {
+      "kanji": "光",
+      "onyomi": "コウ",
+      "kunyomi": "ひか.る、ひかり",
+      "meaning": "light, ray",
+      "strokes": 6,
+      "audio_text": "コウ、ひか.る、ひかり",
+      "examples": []
+    },
+    {
+      "kanji": "音",
+      "onyomi": "-ノン、イン、オン",
+      "kunyomi": "おと、ね",
+      "meaning": "noise, sound",
+      "strokes": 9,
+      "audio_text": "-ノン、イン、オン、おと、ね",
+      "examples": []
+    },
+    {
+      "kanji": "社",
+      "onyomi": "シャ",
+      "kunyomi": "やしろ",
+      "meaning": "association, company, firm, office, shrine",
+      "strokes": 7,
+      "audio_text": "シャ、やしろ",
+      "examples": []
+    },
+    {
+      "kanji": "公",
+      "onyomi": "ク、コウ",
+      "kunyomi": "おおやけ",
+      "meaning": "governmental, official, prince, public",
+      "strokes": 4,
+      "audio_text": "ク、コウ、おおやけ",
+      "examples": []
+    },
+    {
+      "kanji": "私",
+      "onyomi": "シ",
+      "kunyomi": "わたくし、わたし",
+      "meaning": "I, me, private",
+      "strokes": 7,
+      "audio_text": "シ、わたくし、わたし",
+      "examples": []
+    },
+    {
+      "kanji": "民",
+      "onyomi": "ミン",
+      "kunyomi": "たみ",
+      "meaning": "nation, people, subjects",
+      "strokes": 5,
+      "audio_text": "ミン、たみ",
+      "examples": []
+    },
+    {
+      "kanji": "法",
+      "onyomi": "ハッ、フラン、ホウ、ホッ",
+      "kunyomi": "のり",
+      "meaning": "law, method, model, principle, rule, system",
+      "strokes": 8,
+      "audio_text": "ハッ、フラン、ホウ、ホッ、のり",
+      "examples": []
+    },
+    {
+      "kanji": "政",
+      "onyomi": "ショウ、セイ",
+      "kunyomi": "まつりごと、まん",
+      "meaning": "government, politics",
+      "strokes": 9,
+      "audio_text": "ショウ、セイ、まつりごと、まん",
+      "examples": []
+    },
+    {
+      "kanji": "経",
+      "onyomi": "キョウ、キン、ケイ",
+      "kunyomi": "た.つ、たていと、のり、はか.る、へ.る",
+      "meaning": "expire, longitude, pass thru, sutra, warp",
+      "strokes": 11,
+      "audio_text": "キョウ、キン、ケイ、た.つ、たていと、のり、はか.る、へ.る",
+      "examples": []
+    },
+    {
+      "kanji": "済",
+      "onyomi": "サイ、セイ",
+      "kunyomi": "-す.ます、-ず.み、-ずみ、す.ます、す.まない、す.む、すく.う、な.す、わた.る、わたし",
+      "meaning": "come to an end, excusable, finish, need not, relieve (burden), settle (debt, etc.)",
+      "strokes": 11,
+      "audio_text": "サイ、セイ、-す.ます、-ず.み、-ずみ、す.ます、す.まない、す.む、すく.う、な.す、わた.る、わたし",
+      "examples": []
+    },
+    {
+      "kanji": "力",
+      "onyomi": "リイ、リキ、リョク",
+      "kunyomi": "ちから",
+      "meaning": "bear up, exert, power, strain, strength, strong",
+      "strokes": 2,
+      "audio_text": "リイ、リキ、リョク、ちから",
+      "examples": []
+    },
+    {
+      "kanji": "工",
+      "onyomi": "ク、グ、コウ",
+      "kunyomi": "",
+      "meaning": "construction, craft, katakana e radical (no. 48)",
+      "strokes": 3,
+      "audio_text": "ク、グ、コウ",
+      "examples": []
+    },
+    {
+      "kanji": "業",
+      "onyomi": "ギョウ、ゴウ",
+      "kunyomi": "わざ",
+      "meaning": "arts, business, performance, vocation",
+      "strokes": 13,
+      "audio_text": "ギョウ、ゴウ、わざ",
+      "examples": []
+    },
+    {
+      "kanji": "産",
+      "onyomi": "サン",
+      "kunyomi": "う.まれる、う.む、うぶ-、む.す",
+      "meaning": "bear, childbirth, give birth, native, products, property, yield",
+      "strokes": 11,
+      "audio_text": "サン、う.まれる、う.む、うぶ-、む.す",
+      "examples": []
+    },
+    {
+      "kanji": "業",
+      "onyomi": "ギョウ、ゴウ",
+      "kunyomi": "わざ",
+      "meaning": "arts, business, performance, vocation",
+      "strokes": 13,
+      "audio_text": "ギョウ、ゴウ、わざ",
+      "examples": []
+    },
+    {
+      "kanji": "歴",
+      "onyomi": "レキ、レッキ",
+      "kunyomi": "",
+      "meaning": "continuation, curriculum, passage of time",
+      "strokes": 14,
+      "audio_text": "レキ、レッキ",
+      "examples": []
+    },
+    {
+      "kanji": "史",
+      "onyomi": "シ",
+      "kunyomi": "",
+      "meaning": "chronicle, history",
+      "strokes": 5,
+      "audio_text": "シ",
+      "examples": []
+    },
+    {
+      "kanji": "科",
+      "onyomi": "カ",
+      "kunyomi": "",
+      "meaning": "course, department, section",
+      "strokes": 9,
+      "audio_text": "カ",
+      "examples": []
+    },
+    {
+      "kanji": "々",
+      "onyomi": "",
+      "kunyomi": "",
+      "meaning": "",
+      "strokes": 0,
+      "audio_text": "",
+      "examples": []
+    },
+    {
+      "kanji": "昔",
+      "onyomi": "シャク、セキ",
+      "kunyomi": "むかし",
+      "meaning": "antiquity, old times, once upon a time",
+      "strokes": 8,
+      "audio_text": "シャク、セキ、むかし",
+      "examples": []
+    },
+    {
+      "kanji": "相",
+      "onyomi": "ショウ、ソウ",
+      "kunyomi": "あい-",
+      "meaning": "aspect, councillor, each other, inter-, minister of state, mutual, phase, physiognomy, together",
+      "strokes": 9,
+      "audio_text": "ショウ、ソウ、あい-",
+      "examples": []
+    },
+    {
+      "kanji": "向",
+      "onyomi": "コウ",
+      "kunyomi": "-む.き、-む.け、む.い、む.かい、む.かう、む.く、む.ける、む.こう、む.こう-、むか.い、むこ",
+      "meaning": "approach, beyond, confront, defy, facing, tend toward, yonder",
+      "strokes": 6,
+      "audio_text": "コウ、-む.き、-む.け、む.い、む.かい、む.かう、む.く、む.ける、む.こう、む.こう-、むか.い、むこ",
+      "examples": []
+    },
+    {
+      "kanji": "医",
+      "onyomi": "イ",
+      "kunyomi": "い.する、い.やす、くすし",
+      "meaning": "doctor, medicine",
+      "strokes": 7,
+      "audio_text": "イ、い.する、い.やす、くすし",
+      "examples": []
+    },
+    {
+      "kanji": "薬",
+      "onyomi": "ヤク",
+      "kunyomi": "くすり",
+      "meaning": "benefit, chemical, enamel, gunpowder, medicine",
+      "strokes": 16,
+      "audio_text": "ヤク、くすり",
+      "examples": []
+    },
+    {
+      "kanji": "曜",
+      "onyomi": "ヨウ",
+      "kunyomi": "",
+      "meaning": "weekday",
+      "strokes": 18,
+      "audio_text": "ヨウ",
+      "examples": []
+    },
+    {
+      "kanji": "変",
+      "onyomi": "ヘン",
+      "kunyomi": "か.える、か.わり、か.わる",
+      "meaning": "change, strange, unusual",
+      "strokes": 9,
+      "audio_text": "ヘン、か.える、か.わり、か.わる",
+      "examples": []
+    },
+    {
+      "kanji": "広",
+      "onyomi": "コウ",
+      "kunyomi": "ひろ.い、ひろ.がる、ひろ.げる、ひろ.まる、ひろ.める",
+      "meaning": "broad, spacious, wide",
+      "strokes": 5,
+      "audio_text": "コウ、ひろ.い、ひろ.がる、ひろ.げる、ひろ.まる、ひろ.める",
+      "examples": []
+    },
+    {
+      "kanji": "和",
+      "onyomi": "オ、カ、ワ",
+      "kunyomi": "あ.える、なご.む、なご.やか、やわ.らぐ、やわ.らげる",
+      "meaning": "Japan, Japanese style, harmony, peace, soften",
+      "strokes": 8,
+      "audio_text": "オ、カ、ワ、あ.える、なご.む、なご.やか、やわ.らぐ、やわ.らげる",
+      "examples": []
+    }
+  ],
+  "N3": [],
+  "N2": [],
+  "N1": []
+}

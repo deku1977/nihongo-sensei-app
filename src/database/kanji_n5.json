@@ -1,0 +1,332 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ、ジツ",
+    "kunyomi": "ひ、か",
+    "meaning": "sole, giorno",
+    "strokes": 4,
+    "examples": [
+      { "word": "日本", "reading": "にほん", "meaning": "Giappone" },
+      { "word": "毎日", "reading": "まいにち", "meaning": "ogni giorno" }
+    ]
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "libro, origine",
+    "strokes": 5,
+    "examples": [
+      { "word": "本", "reading": "ほん", "meaning": "libro" },
+      { "word": "日本", "reading": "にほん", "meaning": "Giappone" }
+    ]
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン、ニン",
+    "kunyomi": "ひと",
+    "meaning": "persona",
+    "strokes": 2,
+    "examples": [
+      { "word": "人", "reading": "ひと", "meaning": "persona" },
+      { "word": "日本人", "reading": "にほんじん", "meaning": "giapponese (persona)" }
+    ]
+  },
+  {
+    "kanji": "月",
+    "onyomi": "ゲツ、ガツ",
+    "kunyomi": "つき",
+    "meaning": "luna, mese",
+    "strokes": 4,
+    "examples": [
+      { "word": "月", "reading": "つき", "meaning": "luna" },
+      { "word": "一月", "reading": "いちがつ", "meaning": "gennaio" }
+    ]
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ",
+    "meaning": "fuoco",
+    "strokes": 4,
+    "examples": [
+      { "word": "火", "reading": "ひ", "meaning": "fuoco" },
+      { "word": "火曜日", "reading": "かようび", "meaning": "martedì" }
+    ]
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "acqua",
+    "strokes": 4,
+    "examples": [
+      { "word": "水", "reading": "みず", "meaning": "acqua" },
+      { "word": "水曜日", "reading": "すいようび", "meaning": "mercoledì" }
+    ]
+  },
+  {
+    "kanji": "木",
+    "onyomi": "モク、ボク",
+    "kunyomi": "き",
+    "meaning": "albero, legno",
+    "strokes": 4,
+    "examples": [
+      { "word": "木", "reading": "き", "meaning": "albero" },
+      { "word": "木曜日", "reading": "もくようび", "meaning": "giovedì" }
+    ]
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン、コン",
+    "kunyomi": "かね",
+    "meaning": "oro, denaro",
+    "strokes": 8,
+    "examples": [
+      { "word": "金", "reading": "かね", "meaning": "denaro" },
+      { "word": "金曜日", "reading": "きんようび", "meaning": "venerdì" }
+    ]
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド、ト",
+    "kunyomi": "つち",
+    "meaning": "terra, suolo",
+    "strokes": 3,
+    "examples": [
+      { "word": "土", "reading": "つち", "meaning": "terra" },
+      { "word": "土曜日", "reading": "どようび", "meaning": "sabato" }
+    ]
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "anno",
+    "strokes": 6,
+    "examples": [
+      { "word": "年", "reading": "とし", "meaning": "anno" },
+      { "word": "今年", "reading": "ことし", "meaning": "quest'anno" }
+    ]
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ",
+    "kunyomi": "うえ、あ",
+    "meaning": "sopra, salire",
+    "strokes": 3,
+    "examples": [
+      { "word": "上", "reading": "うえ", "meaning": "sopra" },
+      { "word": "上手", "reading": "じょうず", "meaning": "bravo" }
+    ]
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ、ゲ",
+    "kunyomi": "した、さ、くだ",
+    "meaning": "sotto, scendere",
+    "strokes": 3,
+    "examples": [
+      { "word": "下", "reading": "した", "meaning": "sotto" },
+      { "word": "下手", "reading": "へた", "meaning": "inesperto" }
+    ]
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか",
+    "meaning": "dentro, mezzo",
+    "strokes": 4,
+    "examples": [
+      { "word": "中", "reading": "なか", "meaning": "dentro" },
+      { "word": "中国", "reading": "ちゅうごく", "meaning": "Cina" }
+    ]
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ、タイ",
+    "kunyomi": "おお",
+    "meaning": "grande",
+    "strokes": 3,
+    "examples": [
+      { "word": "大きい", "reading": "おおきい", "meaning": "grande" },
+      { "word": "大学", "reading": "だいがく", "meaning": "università" }
+    ]
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい、こ",
+    "meaning": "piccolo",
+    "strokes": 3,
+    "examples": [
+      { "word": "小さい", "reading": "ちいさい", "meaning": "piccolo" },
+      { "word": "小学校", "reading": "しょうがっこう", "meaning": "scuola elementare" }
+    ]
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン",
+    "kunyomi": "やま",
+    "meaning": "montagna",
+    "strokes": 3,
+    "examples": [
+      { "word": "山", "reading": "やま", "meaning": "montagna" },
+      { "word": "富士山", "reading": "ふじさん", "meaning": "Monte Fuji" }
+    ]
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "fiume",
+    "strokes": 3,
+    "examples": [
+      { "word": "川", "reading": "かわ", "meaning": "fiume" },
+      { "word": "小川", "reading": "おがわ", "meaning": "ruscello" }
+    ]
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "meaning": "prima, precedente",
+    "strokes": 6,
+    "examples": [
+      { "word": "先生", "reading": "せんせい", "meaning": "insegnante" },
+      { "word": "先", "reading": "さき", "meaning": "davanti" }
+    ]
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "い、う、は",
+    "meaning": "vita, nascere",
+    "strokes": 5,
+    "examples": [
+      { "word": "先生", "reading": "せんせい", "meaning": "insegnante" },
+      { "word": "学生", "reading": "がくせい", "meaning": "studente" }
+    ]
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな",
+    "meaning": "studio, scuola",
+    "strokes": 8,
+    "examples": [
+      { "word": "学校", "reading": "がっこう", "meaning": "scuola" },
+      { "word": "大学", "reading": "だいがく", "meaning": "università" }
+    ]
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "scuola",
+    "strokes": 10,
+    "examples": [
+      { "word": "学校", "reading": "がっこう", "meaning": "scuola" },
+      { "word": "高校", "reading": "こうこう", "meaning": "liceo" }
+    ]
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク",
+    "kunyomi": "た、く",
+    "meaning": "mangiare, cibo",
+    "strokes": 9,
+    "examples": [
+      { "word": "食べる", "reading": "たべる", "meaning": "mangiare" },
+      { "word": "食事", "reading": "しょくじ", "meaning": "pasto" }
+    ]
+  },
+  {
+    "kanji": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の",
+    "meaning": "bere",
+    "strokes": 12,
+    "examples": [
+      { "word": "飲む", "reading": "のむ", "meaning": "bere" },
+      { "word": "飲み物", "reading": "のみもの", "meaning": "bevanda" }
+    ]
+  },
+  {
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み",
+    "meaning": "vedere",
+    "strokes": 7,
+    "examples": [
+      { "word": "見る", "reading": "みる", "meaning": "vedere" },
+      { "word": "見物", "reading": "けんぶつ", "meaning": "visita turistica" }
+    ]
+  },
+  {
+    "kanji": "行",
+    "onyomi": "コウ、ギョウ",
+    "kunyomi": "い、ゆ",
+    "meaning": "andare",
+    "strokes": 6,
+    "examples": [
+      { "word": "行く", "reading": "いく", "meaning": "andare" },
+      { "word": "旅行", "reading": "りょこう", "meaning": "viaggio" }
+    ]
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ",
+    "kunyomi": "く、き",
+    "meaning": "venire",
+    "strokes": 7,
+    "examples": [
+      { "word": "来る", "reading": "くる", "meaning": "venire" },
+      { "word": "来年", "reading": "らいねん", "meaning": "anno prossimo" }
+    ]
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い、はい",
+    "meaning": "entrare",
+    "strokes": 2,
+    "examples": [
+      { "word": "入る", "reading": "はいる", "meaning": "entrare" },
+      { "word": "入口", "reading": "いりぐち", "meaning": "entrata" }
+    ]
+  },
+  {
+    "kanji": "出",
+    "onyomi": "シュツ",
+    "kunyomi": "で、だ",
+    "meaning": "uscire",
+    "strokes": 5,
+    "examples": [
+      { "word": "出る", "reading": "でる", "meaning": "uscire" },
+      { "word": "出口", "reading": "でぐち", "meaning": "uscita" }
+    ]
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "paese, nazione",
+    "strokes": 8,
+    "examples": [
+      { "word": "国", "reading": "くに", "meaning": "paese" },
+      { "word": "外国", "reading": "がいこく", "meaning": "paese straniero" }
+    ]
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた",
+    "meaning": "lingua, linguaggio",
+    "strokes": 14,
+    "examples": [
+      { "word": "日本語", "reading": "にほんご", "meaning": "lingua giapponese" },
+      { "word": "英語", "reading": "えいご", "meaning": "lingua inglese" }
+    ]
+  }
+]

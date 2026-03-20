@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-washi text-sumi font-sans;
+    font-feature-settings: 'liga' 1, 'calt' 1;
+  }
+
+  /* Japanese text styling */
+  .japanese-text {
+    @apply font-mincho;
+  }
+
+  /* Hanko stamp animation */
+  @keyframes stampAppear {
+    0% {
+      transform: scale(0) rotate(-15deg);
+      opacity: 0;
+    }
+    50% {
+      transform: scale(1.2) rotate(-15deg);
+    }
+    100% {
+      transform: scale(1) rotate(-15deg);
+      opacity: 1;
+    }
+  }
+
+  .stamp-animation {
+    animation: stampAppear 0.5s ease-out;
+  }
+}
+
+@layer components {
+  /* Wabi-Sabi Card */
+  .card-wabi {
+    @apply bg-white rounded-lg shadow-washi border border-gray-100 p-6;
+  }
+
+  /* Minimal Button */
+  .btn-minimal {
+    @apply px-4 py-2 rounded border border-sumi/20 text-sumi hover:bg-gray-50 transition-all;
+  }
+
+  /* Accent Button */
+  .btn-accent {
+    @apply px-4 py-2 rounded bg-hinomaru text-white hover:bg-hinomaru/90 shadow-hanko transition-all;
+  }
+}

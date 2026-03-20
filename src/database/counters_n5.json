@@ -1,0 +1,385 @@
+[
+  {
+    "id": 1,
+    "counter": "〜つ",
+    "reading": "つ",
+    "category": "generico",
+    "description": "Contatore generico per oggetti (usato fino a 10)",
+    "usage": "Qualsiasi oggetto piccolo, astratto o generico",
+    "nouns": [
+      {
+        "kanji": "りんご",
+        "reading": "りんご",
+        "meaning": "mela",
+        "compatibleVerbs": ["ある", "買う", "食べる"]
+      },
+      {
+        "kanji": "みかん",
+        "reading": "みかん",
+        "meaning": "mandarino",
+        "compatibleVerbs": ["ある", "買う", "食べる"]
+      },
+      {
+        "kanji": "ケーキ",
+        "reading": "けーき",
+        "meaning": "torta",
+        "compatibleVerbs": ["ある", "買う", "食べる"]
+      }
+    ],
+    "verbs": [
+      {"verb": "ある", "form": "あります", "reading": "あります", "particle": "が", "meaning": "esserci"},
+      {"verb": "買う", "form": "買います", "reading": "かいます", "particle": "を", "meaning": "comprare"},
+      {"verb": "食べる", "form": "食べます", "reading": "たべます", "particle": "を", "meaning": "mangiare"}
+    ],
+    "examples": [
+      {
+        "number": 1,
+        "kanji": "一つ",
+        "reading": "ひとつ",
+        "romaji": "hitotsu",
+        "explanation": "Irregolare: ひとつ"
+      },
+      {
+        "number": 2,
+        "kanji": "二つ",
+        "reading": "ふたつ",
+        "romaji": "futatsu",
+        "explanation": "Irregolare: ふたつ"
+      },
+      {
+        "number": 3,
+        "kanji": "三つ",
+        "reading": "みっつ",
+        "romaji": "mittsu",
+        "explanation": "Irregolare: みっつ (doppia consonante)"
+      },
+      {
+        "number": 5,
+        "kanji": "五つ",
+        "reading": "いつつ",
+        "romaji": "itsutsu",
+        "explanation": "Irregolare: いつつ"
+      },
+      {
+        "number": 10,
+        "kanji": "十",
+        "reading": "とお",
+        "romaji": "tō",
+        "explanation": "Irregolare: とお"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "counter": "〜枚",
+    "reading": "まい",
+    "category": "piatti",
+    "description": "Contatore per oggetti piatti e sottili",
+    "usage": "Fogli di carta, piatti, camicie, biglietti, CD, ecc.",
+    "nouns": [
+      {
+        "kanji": "紙",
+        "reading": "かみ",
+        "meaning": "carta",
+        "compatibleVerbs": ["ある", "買う"]
+      },
+      {
+        "kanji": "写真",
+        "reading": "しゃしん",
+        "meaning": "foto",
+        "compatibleVerbs": ["ある", "撮る"]
+      },
+      {
+        "kanji": "シャツ",
+        "reading": "しゃつ",
+        "meaning": "camicia",
+        "compatibleVerbs": ["ある", "買う"]
+      }
+    ],
+    "verbs": [
+      {"verb": "ある", "form": "あります", "reading": "あります", "particle": "が", "meaning": "esserci"},
+      {"verb": "買う", "form": "買います", "reading": "かいます", "particle": "を", "meaning": "comprare"},
+      {"verb": "撮る", "form": "撮ります", "reading": "とります", "particle": "を", "meaning": "scattare"}
+    ],
+    "examples": [
+      {
+        "number": 1,
+        "kanji": "一枚",
+        "reading": "いちまい",
+        "romaji": "ichimai",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 3,
+        "kanji": "三枚",
+        "reading": "さんまい",
+        "romaji": "sanmai",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 5,
+        "kanji": "五枚",
+        "reading": "ごまい",
+        "romaji": "gomai",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 10,
+        "kanji": "十枚",
+        "reading": "じゅうまい",
+        "romaji": "jūmai",
+        "explanation": "Regolare"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "counter": "〜本",
+    "reading": "ほん",
+    "category": "lunghi",
+    "description": "Contatore per oggetti lunghi e cilindrici",
+    "usage": "Penne, bottiglie, ombrelli, alberi, film, binari, ecc.",
+    "nouns": [
+      {
+        "kanji": "ペン",
+        "reading": "ぺん",
+        "meaning": "penna",
+        "compatibleVerbs": ["ある", "買う"]
+      },
+      {
+        "kanji": "水",
+        "reading": "みず",
+        "meaning": "acqua (bottiglia)",
+        "compatibleVerbs": ["ある", "買う", "飲む"]
+      },
+      {
+        "kanji": "傘",
+        "reading": "かさ",
+        "meaning": "ombrello",
+        "compatibleVerbs": ["ある", "買う"]
+      }
+    ],
+    "verbs": [
+      {"verb": "ある", "form": "あります", "reading": "あります", "particle": "が", "meaning": "esserci"},
+      {"verb": "買う", "form": "買います", "reading": "かいます", "particle": "を", "meaning": "comprare"},
+      {"verb": "飲む", "form": "飲みます", "reading": "のみます", "particle": "を", "meaning": "bere"}
+    ],
+    "examples": [
+      {
+        "number": 1,
+        "kanji": "一本",
+        "reading": "いっぽん",
+        "romaji": "ippon",
+        "explanation": "Irregolare: いっぽん (doppia consonante + p)"
+      },
+      {
+        "number": 3,
+        "kanji": "三本",
+        "reading": "さんぼん",
+        "romaji": "sanbon",
+        "explanation": "Irregolare: さんぼん (rendaku: h→b)"
+      },
+      {
+        "number": 6,
+        "kanji": "六本",
+        "reading": "ろっぽん",
+        "romaji": "roppon",
+        "explanation": "Irregolare: ろっぽん (doppia consonante + p)"
+      },
+      {
+        "number": 8,
+        "kanji": "八本",
+        "reading": "はっぽん",
+        "romaji": "happon",
+        "explanation": "Irregolare: はっぽん (doppia consonante + p)"
+      },
+      {
+        "number": 10,
+        "kanji": "十本",
+        "reading": "じゅっぽん",
+        "romaji": "juppon",
+        "explanation": "Irregolare: じゅっぽん (doppia consonante + p)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "counter": "〜台",
+    "reading": "だい",
+    "category": "macchine",
+    "description": "Contatore per veicoli e macchinari",
+    "usage": "Auto, computer, televisori, lavatrici, biciclette, ecc.",
+    "nouns": [
+      {
+        "kanji": "車",
+        "reading": "くるま",
+        "meaning": "auto",
+        "compatibleVerbs": ["ある", "買う"]
+      },
+      {
+        "kanji": "パソコン",
+        "reading": "ぱそこん",
+        "meaning": "computer",
+        "compatibleVerbs": ["ある", "買う"]
+      },
+      {
+        "kanji": "テレビ",
+        "reading": "てれび",
+        "meaning": "televisore",
+        "compatibleVerbs": ["ある", "買う"]
+      }
+    ],
+    "verbs": [
+      {"verb": "ある", "form": "あります", "reading": "あります", "particle": "が", "meaning": "esserci"},
+      {"verb": "買う", "form": "買います", "reading": "かいます", "particle": "を", "meaning": "comprare"}
+    ],
+    "examples": [
+      {
+        "number": 1,
+        "kanji": "一台",
+        "reading": "いちだい",
+        "romaji": "ichidai",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 3,
+        "kanji": "三台",
+        "reading": "さんだい",
+        "romaji": "sandai",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 5,
+        "kanji": "五台",
+        "reading": "ごだい",
+        "romaji": "godai",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 10,
+        "kanji": "十台",
+        "reading": "じゅうだい",
+        "romaji": "jūdai",
+        "explanation": "Regolare"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "counter": "〜人",
+    "reading": "にん",
+    "category": "persone",
+    "description": "Contatore per persone",
+    "usage": "Numero di persone",
+    "nouns": [
+      {
+        "kanji": "学生",
+        "reading": "がくせい",
+        "meaning": "studente",
+        "compatibleVerbs": ["いる"]
+      },
+      {
+        "kanji": "友達",
+        "reading": "ともだち",
+        "meaning": "amico",
+        "compatibleVerbs": ["いる", "来る"]
+      },
+      {
+        "kanji": "人",
+        "reading": "ひと",
+        "meaning": "persona",
+        "compatibleVerbs": ["いる"]
+      }
+    ],
+    "verbs": [
+      {"verb": "いる", "form": "います", "reading": "います", "particle": "が", "meaning": "esserci (persone)"},
+      {"verb": "来る", "form": "来ます", "reading": "きます", "particle": "が", "meaning": "venire"}
+    ],
+    "examples": [
+      {
+        "number": 1,
+        "kanji": "一人",
+        "reading": "ひとり",
+        "romaji": "hitori",
+        "explanation": "Irregolare: ひとり"
+      },
+      {
+        "number": 2,
+        "kanji": "二人",
+        "reading": "ふたり",
+        "romaji": "futari",
+        "explanation": "Irregolare: ふたり"
+      },
+      {
+        "number": 3,
+        "kanji": "三人",
+        "reading": "さんにん",
+        "romaji": "sannin",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 5,
+        "kanji": "五人",
+        "reading": "ごにん",
+        "romaji": "gonin",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 10,
+        "kanji": "十人",
+        "reading": "じゅうにん",
+        "romaji": "jūnin",
+        "explanation": "Regolare"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "counter": "〜歳",
+    "reading": "さい",
+    "category": "età",
+    "description": "Contatore per l'età",
+    "usage": "Età di persone, animali, età di edifici",
+    "nouns": [],
+    "verbs": [
+      {"verb": "です", "form": "です", "reading": "です", "particle": "", "meaning": "essere"}
+    ],
+    "examples": [
+      {
+        "number": 1,
+        "kanji": "一歳",
+        "reading": "いっさい",
+        "romaji": "issai",
+        "explanation": "Irregolare: いっさい (doppia consonante)"
+      },
+      {
+        "number": 5,
+        "kanji": "五歳",
+        "reading": "ごさい",
+        "romaji": "gosai",
+        "explanation": "Regolare"
+      },
+      {
+        "number": 8,
+        "kanji": "八歳",
+        "reading": "はっさい",
+        "romaji": "hassai",
+        "explanation": "Irregolare: はっさい (doppia consonante)"
+      },
+      {
+        "number": 10,
+        "kanji": "十歳",
+        "reading": "じゅっさい",
+        "romaji": "jussai",
+        "explanation": "Irregolare: じゅっさい (doppia consonante)"
+      },
+      {
+        "number": 20,
+        "kanji": "二十歳",
+        "reading": "はたち",
+        "romaji": "hatachi",
+        "explanation": "Irregolare speciale: はたち (maggiore età in Giappone)"
+      }
+    ]
+  }
+]

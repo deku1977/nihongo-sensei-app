@@ -1,0 +1,569 @@
+[
+  {
+    "id": 13536221,
+    "japanese": "行く？",
+    "reading": "いく？",
+    "english": "You're leaving?",
+    "italian": "Te ne vai?"
+  },
+  {
+    "id": 4751,
+    "japanese": "本当？",
+    "reading": "ほんとう？",
+    "english": "Are you certain?",
+    "italian": "Ne sei sicuro?"
+  },
+  {
+    "id": 13563774,
+    "japanese": "実に。",
+    "reading": "じつに。",
+    "english": "Indeed.",
+    "italian": "Infatti."
+  },
+  {
+    "id": 13563773,
+    "japanese": "正に。",
+    "reading": "まさに。",
+    "english": "Indeed.",
+    "italian": "Infatti."
+  },
+  {
+    "id": 13536224,
+    "japanese": "行くか？",
+    "reading": "いくか？",
+    "english": "You're leaving?",
+    "italian": "Te ne vai?"
+  },
+  {
+    "id": 13193964,
+    "japanese": "怖い。",
+    "reading": "こわい。",
+    "english": "I am afraid.",
+    "italian": "Ho paura."
+  },
+  {
+    "id": 8769317,
+    "japanese": "行くの？",
+    "reading": "いくの？",
+    "english": "Will you come with us?",
+    "italian": "Verrai con noi?"
+  },
+  {
+    "id": 2752686,
+    "japanese": "いま暇？",
+    "reading": "いまひま？",
+    "english": "Are you free?",
+    "italian": "È libero?"
+  },
+  {
+    "id": 2303034,
+    "japanese": "何の話？",
+    "reading": "なんのはなし？",
+    "english": "What are you talking about!?",
+    "italian": "Di cosa stai parlando!?"
+  },
+  {
+    "id": 778974,
+    "japanese": "なんで？",
+    "reading": "なんで？",
+    "english": "For what?",
+    "italian": "Per quello?"
+  },
+  {
+    "id": 370955,
+    "japanese": "何これ？",
+    "reading": "なにこれ？",
+    "english": "What is it?",
+    "italian": "Che cos'è?"
+  },
+  {
+    "id": 142537,
+    "japanese": "静かに！",
+    "reading": "しずかに！",
+    "english": "Order!",
+    "italian": "Ordine!"
+  },
+  {
+    "id": 4754,
+    "japanese": "急いで！",
+    "reading": "いそいで！",
+    "english": "Hurry it up!",
+    "italian": "Sbrigati!"
+  },
+  {
+    "id": 13563772,
+    "japanese": "正しく。",
+    "reading": "ただしく。",
+    "english": "Indeed.",
+    "italian": "Infatti."
+  },
+  {
+    "id": 3710861,
+    "japanese": "あ、雪だ！",
+    "reading": "あ、ゆきだ！",
+    "english": "Oh, it's snowing!",
+    "italian": "Oh, sta nevicando!"
+  },
+  {
+    "id": 3590724,
+    "japanese": "頭痛い。",
+    "reading": "あたまいたい。",
+    "english": "I have a sore head.",
+    "italian": "Ho mal di testa."
+  },
+  {
+    "id": 3550819,
+    "japanese": "今の音何？",
+    "reading": "いまのおとなに？",
+    "english": "What was that noise?",
+    "italian": "Cos'era quel rumore?"
+  },
+  {
+    "id": 2666712,
+    "japanese": "寝てるの？",
+    "reading": "ねてるの？",
+    "english": "Is he asleep?",
+    "italian": "Sta dormendo?"
+  },
+  {
+    "id": 145180,
+    "japanese": "新聞どこ？",
+    "reading": "しんぶんどこ？",
+    "english": "",
+    "italian": "Dov'è il giornale?"
+  },
+  {
+    "id": 13669575,
+    "japanese": "お金はどこ？",
+    "reading": "おかねはどこ？",
+    "english": "",
+    "italian": "dove sono i soldi?"
+  },
+  {
+    "id": 13611158,
+    "japanese": "翻訳された!",
+    "reading": "ほんやくされた!",
+    "english": "",
+    "italian": "Tradotto!"
+  },
+  {
+    "id": 13563775,
+    "japanese": "まことに。",
+    "reading": "まことに。",
+    "english": "Indeed.",
+    "italian": "Infatti."
+  },
+  {
+    "id": 13563769,
+    "japanese": "それじゃ。",
+    "reading": "それじゃ。",
+    "english": "Later.",
+    "italian": "Dopo."
+  },
+  {
+    "id": 13563767,
+    "japanese": "お互いに。",
+    "reading": "おたがいに。",
+    "english": "",
+    "italian": "l'un l'altro.",
+    "reading_annotated": "おた[が]いに。"
+  },
+  {
+    "id": 13563757,
+    "japanese": "立ち上がれ！",
+    "reading": "たちあがれ！",
+    "english": "Get up.",
+    "italian": "Alzarsi."
+  },
+  {
+    "id": 13563750,
+    "japanese": "十分です。",
+    "reading": "じゅうぶんです。",
+    "english": "That will do.",
+    "italian": "Questo andrà bene.",
+    "reading_annotated": "じゅうぶんで[す]。"
+  },
+  {
+    "id": 13563746,
+    "japanese": "何処にも。",
+    "reading": "どこにも。",
+    "english": "",
+    "italian": "luogo inesistente."
+  },
+  {
+    "id": 13563726,
+    "japanese": "でたらめ。",
+    "reading": "でたらめ。",
+    "english": "Nonsense!",
+    "italian": "Sciocchezze!"
+  },
+  {
+    "id": 13552533,
+    "japanese": "絶賛放送中！",
+    "reading": "ぜっさんほうそうちゅう！",
+    "english": "",
+    "italian": "Ora in onda!"
+  },
+  {
+    "id": 13549381,
+    "japanese": "お疲れ様。",
+    "reading": "おつかれさま。",
+    "english": "Well done.",
+    "italian": "Ben fatto."
+  },
+  {
+    "id": 13536222,
+    "japanese": "行くのか。",
+    "reading": "いくのか。",
+    "english": "You're leaving?",
+    "italian": "Te ne vai?"
+  },
+  {
+    "id": 13536216,
+    "japanese": "先生です。",
+    "reading": "せんせいです。",
+    "english": "She is a teacher.",
+    "italian": "Lei è un'insegnante.",
+    "reading_annotated": "せんせいで[す]。"
+  },
+  {
+    "id": 13523695,
+    "japanese": "電話して。",
+    "reading": "でんわして。",
+    "english": "Call me!",
+    "italian": "Chiamami!"
+  },
+  {
+    "id": 13523690,
+    "japanese": "恐ろしい。",
+    "reading": "おそろしい。",
+    "english": "I am afraid.",
+    "italian": "Ho paura."
+  },
+  {
+    "id": 13513550,
+    "japanese": "何を食べた？",
+    "reading": "なにをたべた？",
+    "english": "What did you have to eat?",
+    "italian": "Cosa hai mangiato?"
+  },
+  {
+    "id": 13511590,
+    "japanese": "なんだこれ？",
+    "reading": "なんだこれ？",
+    "english": "What's this move?",
+    "italian": "Cos'è questa mossa?"
+  },
+  {
+    "id": 12296500,
+    "japanese": "怖かった。",
+    "reading": "こわかった。",
+    "english": "I'm scared.",
+    "italian": "Ho paura."
+  },
+  {
+    "id": 3878008,
+    "japanese": "手伝おうか？",
+    "reading": "てつだおうか？",
+    "english": "Can I be of help?",
+    "italian": "Posso essere d'aiuto?"
+  },
+  {
+    "id": 3700808,
+    "japanese": "これトムの？",
+    "reading": "これトムの？",
+    "english": "Is that Tom's?",
+    "italian": "E' di Tom?"
+  },
+  {
+    "id": 3595435,
+    "japanese": "どこ行くの？",
+    "reading": "どこいくの？",
+    "english": "Where are you heading?",
+    "italian": "Dove stai andando?"
+  },
+  {
+    "id": 3552893,
+    "japanese": "何買ったの？",
+    "reading": "なにかったの？",
+    "english": "",
+    "italian": "Cosa hai comprato?"
+  },
+  {
+    "id": 3552883,
+    "japanese": "何見てるの？",
+    "reading": "なにみてるの？",
+    "english": "What are you staring at?",
+    "italian": "Cosa stai fissando?"
+  },
+  {
+    "id": 3550836,
+    "japanese": "これ何の音？",
+    "reading": "これなんのおと？",
+    "english": "What's this noise?",
+    "italian": "Cos'è questo rumore?"
+  },
+  {
+    "id": 3509647,
+    "japanese": "トムはどこ？",
+    "reading": "トムはどこ？",
+    "english": "Where is Tom?",
+    "italian": "Dov'è Tom?"
+  },
+  {
+    "id": 3466602,
+    "japanese": "何食べたい？",
+    "reading": "なにたべたい？",
+    "english": "What do you guys want to eat?",
+    "italian": "Ragazzi, cosa volete mangiare?"
+  },
+  {
+    "id": 3373644,
+    "japanese": "顔赤いよ。",
+    "reading": "かおあかいよ。",
+    "english": "You are blushing.",
+    "italian": "Stai arrossendo."
+  },
+  {
+    "id": 3126024,
+    "japanese": "暑くないの？",
+    "reading": "あつくないの？",
+    "english": "Don't you feel hot?",
+    "italian": "Non hai caldo?"
+  },
+  {
+    "id": 3024516,
+    "japanese": "今週末は暇？",
+    "reading": "こんしゅうまつはひま？",
+    "english": "",
+    "italian": "Sei libero questo fine settimana?"
+  },
+  {
+    "id": 2733628,
+    "japanese": "トムって誰？",
+    "reading": "トムってだれ？",
+    "english": "",
+    "italian": "Chi è Tom?"
+  },
+  {
+    "id": 2562842,
+    "japanese": "雨降ってる？",
+    "reading": "あめふってる？",
+    "english": "It's raining?",
+    "italian": "Piove?"
+  },
+  {
+    "id": 217562,
+    "japanese": "これ誰の本？",
+    "reading": "これだれのほん？",
+    "english": "Whose is this book?",
+    "italian": "Di chi è questo libro?"
+  },
+  {
+    "id": 195390,
+    "japanese": "また明日。",
+    "reading": "またあした。",
+    "english": "Until tomorrow.",
+    "italian": "Fino a domani."
+  },
+  {
+    "id": 187729,
+    "japanese": "何に使うの？",
+    "reading": "なににつかうの？",
+    "english": "For what?",
+    "italian": "Per quello?"
+  },
+  {
+    "id": 82540,
+    "japanese": "忘れ物ない？",
+    "reading": "わすれものない？",
+    "english": "Did you get everything?",
+    "italian": "Hai preso tutto?"
+  },
+  {
+    "id": 4704,
+    "japanese": "何してるの？",
+    "reading": "なにしてるの？",
+    "english": "What are you doing now?",
+    "italian": "Cosa stai facendo adesso?"
+  },
+  {
+    "id": 3759421,
+    "japanese": "のど渇いた。",
+    "reading": "のどかわいた。",
+    "english": "My throat feels dry.",
+    "italian": "Mi sento la gola secca."
+  },
+  {
+    "id": 3699447,
+    "japanese": "アイス食べる？",
+    "reading": "アイスたべる？",
+    "english": "",
+    "italian": "Vuoi mangiare il gelato?"
+  },
+  {
+    "id": 3662503,
+    "japanese": "眠そうだね。",
+    "reading": "ねむそうだね。",
+    "english": "You look tired.",
+    "italian": "Sembri stanco."
+  },
+  {
+    "id": 3662454,
+    "japanese": "眠いんですか？",
+    "reading": "ねむいんですか？",
+    "english": "Are you tired?",
+    "italian": "Siete stanchi?",
+    "reading_annotated": "ねむいんで[す]か？"
+  },
+  {
+    "id": 3560587,
+    "japanese": "それ見せて。",
+    "reading": "それみせて。",
+    "english": "Show me that.",
+    "italian": "Mostramelo."
+  },
+  {
+    "id": 3559170,
+    "japanese": "身長何センチ？",
+    "reading": "しんちょうなんセンチ？",
+    "english": "",
+    "italian": "Quanti centimetri di altezza?"
+  },
+  {
+    "id": 3553284,
+    "japanese": "どういうこと？",
+    "reading": "どういうこと？",
+    "english": "What are you implying?",
+    "italian": "Cosa stai insinuando?"
+  },
+  {
+    "id": 3552898,
+    "japanese": "何が心配なの？",
+    "reading": "なにがしんぱいなの？",
+    "english": "Why are you worried?",
+    "italian": "Perché sei preoccupato?"
+  },
+  {
+    "id": 3552890,
+    "japanese": "何書いてんの？",
+    "reading": "なにかいてんの？",
+    "english": "",
+    "italian": "Cosa stai scrivendo?"
+  },
+  {
+    "id": 3507421,
+    "japanese": "トムってバカ？",
+    "reading": "トムってバカ？",
+    "english": "",
+    "italian": "Tom è un idiota?"
+  },
+  {
+    "id": 3496705,
+    "japanese": "あれはトムの？",
+    "reading": "あれはトムの？",
+    "english": "Is this Tom's?",
+    "italian": "E' di Tom?"
+  },
+  {
+    "id": 3455043,
+    "japanese": "誰待ってるの？",
+    "reading": "だれまってるの？",
+    "english": "Whom are you waiting for?",
+    "italian": "Chi stai aspettando?"
+  },
+  {
+    "id": 3454115,
+    "japanese": "お急ぎですか？",
+    "reading": "おいそぎですか？",
+    "english": "Are you in a rush?",
+    "italian": "Sei di fretta?",
+    "reading_annotated": "おいそぎで[す]か？"
+  },
+  {
+    "id": 3451423,
+    "japanese": "トムの嘘つき！",
+    "reading": "トムのうそつき！",
+    "english": "",
+    "italian": "Tom è un bugiardo!"
+  },
+  {
+    "id": 3105597,
+    "japanese": "何笑ってんの？",
+    "reading": "なにわらってんの？",
+    "english": "What're you laughing at?",
+    "italian": "Di cosa stai ridendo?"
+  },
+  {
+    "id": 3029987,
+    "japanese": "外は雪だよ。",
+    "reading": "そとはゆきだよ。",
+    "english": "It snows outside.",
+    "italian": "Fuori nevica."
+  },
+  {
+    "id": 3023122,
+    "japanese": "何食べてるの？",
+    "reading": "なにたべてるの？",
+    "english": "What are you eating right now?",
+    "italian": "Cosa stai mangiando adesso?"
+  },
+  {
+    "id": 2912714,
+    "japanese": "何人に話した？",
+    "reading": "なんにんにはなした？",
+    "english": "",
+    "italian": "A quante persone lo hai detto?"
+  },
+  {
+    "id": 2871761,
+    "japanese": "何読んでるの？",
+    "reading": "なによんでるの？",
+    "english": "What are you reading now?",
+    "italian": "Cosa stai leggendo adesso?"
+  },
+  {
+    "id": 2774232,
+    "japanese": "何の話ですか？",
+    "reading": "なんのはなしですか？",
+    "english": "What are you on about?",
+    "italian": "Di cosa stai parlando?",
+    "reading_annotated": "なんのはなしで[す]か？"
+  },
+  {
+    "id": 2739688,
+    "japanese": "トム、大丈夫？",
+    "reading": "トム、だいじょうぶ？",
+    "english": "Tom, are you all right?",
+    "italian": "Tom, stai bene?"
+  },
+  {
+    "id": 2739687,
+    "japanese": "トムは今幸せ？",
+    "reading": "トムはいましあわせ？",
+    "english": "",
+    "italian": "Tom è felice adesso?"
+  },
+  {
+    "id": 2739683,
+    "japanese": "これトムの靴？",
+    "reading": "これトムのくつ？",
+    "english": "",
+    "italian": "Sono queste le scarpe di Tom?"
+  },
+  {
+    "id": 2626291,
+    "japanese": "トムが最強。",
+    "reading": "トムがさいきょう。",
+    "english": "",
+    "italian": "Tom è il migliore."
+  },
+  {
+    "id": 9999,
+    "japanese": "ノートパソコンで、ビデオチャットをしましょう。",
+    "reading": "ノートパソコンで、ビデオチャットをしましょう。",
+    "english": "Let's video chat on the laptop.",
+    "italian": "Videochattiamo sul notebook.",
+    "reading_annotated": "ノートパソコンで、ビデオチャットをしましょ[う]。"
+  }
+]

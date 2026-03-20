@@ -1,0 +1,177 @@
+[
+  {
+    "id": "n5_01",
+    "italian": "Io mangio il pane.",
+    "japanese": "私はパンを食べます。",
+    "reading": "わたしは ぱんを たべます。",
+    "alternatives": ["パンを食べます", "ぱんをたべます", "私はパンをたべます", "わたしはパンを食べます"]
+  },
+  {
+    "id": "n5_02",
+    "italian": "Io studio giapponese.",
+    "japanese": "私は日本語を勉強します。",
+    "reading": "わたしは にほんごを べんきょうします。",
+    "alternatives": ["日本語を勉強します", "にほんごをべんきょうします", "私はにほんごを勉強します", "わたしは日本語をべんきょうします"]
+  },
+  {
+    "id": "n5_03",
+    "italian": "Io vado a scuola.",
+    "japanese": "私は学校に行きます。",
+    "reading": "わたしは がっこうに いきます。",
+    "alternatives": ["学校に行きます", "がっこうにいきます", "私はがっこうに行きます", "わたしは学校にいきます"]
+  },
+  {
+    "id": "n5_04",
+    "italian": "Io guardo la televisione.",
+    "japanese": "私はテレビを見ます。",
+    "reading": "わたしは てれびを みます。",
+    "alternatives": ["テレビを見ます", "てれびをみます", "私はてれびを見ます", "わたしはテレビをみます"]
+  },
+  {
+    "id": "n5_05",
+    "italian": "Io bevo acqua.",
+    "japanese": "私は水を飲みます。",
+    "reading": "わたしは みずを のみます。",
+    "alternatives": ["水を飲みます", "みずをのみます", "私はみずを飲みます", "わたしは水をのみます"]
+  },
+  {
+    "id": "n5_06",
+    "italian": "Io dormo alle dieci.",
+    "japanese": "私は十時に寝ます。",
+    "reading": "わたしは じゅうじに ねます。",
+    "alternatives": ["十時に寝ます", "じゅうじにねます", "私はじゅうじに寝ます", "わたしは十時にねます", "10時に寝ます"]
+  },
+  {
+    "id": "n5_07",
+    "italian": "Io mi alzo alle sette.",
+    "japanese": "私は七時に起きます。",
+    "reading": "わたしは しちじに おきます。",
+    "alternatives": ["七時に起きます", "しちじにおきます", "私はしちじに起きます", "わたしは七時におきます", "7時に起きます"]
+  },
+  {
+    "id": "n5_08",
+    "italian": "Io leggo un libro.",
+    "japanese": "私は本を読みます。",
+    "reading": "わたしは ほんを よみます。",
+    "alternatives": ["本を読みます", "ほんをよみます", "私はほんを読みます", "わたしは本をよみます"]
+  },
+  {
+    "id": "n5_09",
+    "italian": "Io scrivo una lettera.",
+    "japanese": "私は手紙を書きます。",
+    "reading": "わたしは てがみを かきます。",
+    "alternatives": ["手紙を書きます", "てがみをかきます", "私はてがみを書きます", "わたしは手紙をかきます"]
+  },
+  {
+    "id": "n5_10",
+    "italian": "Io ascolto musica.",
+    "japanese": "私は音楽を聞きます。",
+    "reading": "わたしは おんがくを ききます。",
+    "alternatives": ["音楽を聞きます", "おんがくをききます", "私はおんがくを聞きます", "わたしは音楽をききます", "音楽を聴きます"]
+  },
+  {
+    "id": "n5_11",
+    "italian": "Io compro verdure.",
+    "japanese": "私は野菜を買います。",
+    "reading": "わたしは やさいを かいます。",
+    "alternatives": ["野菜を買います", "やさいをかいます", "私はやさいを買います", "わたしは野菜をかいます"]
+  },
+  {
+    "id": "n5_12",
+    "italian": "Io parlo con un amico.",
+    "japanese": "私は友達と話します。",
+    "reading": "わたしは ともだちと はなします。",
+    "alternatives": ["友達と話します", "ともだちとはなします", "友だちと話します", "ともだちとはなします"]
+  },
+  {
+    "id": "n5_13",
+    "italian": "Io apro la finestra.",
+    "japanese": "私は窓を開けます。",
+    "reading": "わたしは まどを あけます。",
+    "alternatives": ["窓を開けます", "まどをあけます", "私はまどを開けます", "わたしは窓をあけます"]
+  },
+  {
+    "id": "n5_14",
+    "italian": "Io chiudo la porta.",
+    "japanese": "私はドアを閉めます。",
+    "reading": "わたしは どあを しめます。",
+    "alternatives": ["ドアを閉めます", "どあをしめます", "私はどあを閉めます", "わたしはドアをしめます", "扉を閉めます"]
+  },
+  {
+    "id": "n5_15",
+    "italian": "Io prendo il treno.",
+    "japanese": "私は電車に乗ります。",
+    "reading": "わたしは でんしゃに のります。",
+    "alternatives": ["電車に乗ります", "でんしゃにのります", "私はでんしゃに乗ります", "わたしは電車にのります"]
+  },
+  {
+    "id": "n5_16",
+    "italian": "Io insegno matematica.",
+    "japanese": "私は数学を教えます。",
+    "reading": "わたしは すうがくを おしえます。",
+    "alternatives": ["数学を教えます", "すうがくをおしえます", "私はすうがくを教えます", "わたしは数学をおしえます"]
+  },
+  {
+    "id": "n5_17",
+    "italian": "Io aspetto il bus.",
+    "japanese": "私はバスを待ちます。",
+    "reading": "わたしは ばすを まちます。",
+    "alternatives": ["バスを待ちます", "ばすをまちます", "私はばすを待ちます", "わたしはバスをまちます"]
+  },
+  {
+    "id": "n5_18",
+    "italian": "Io torno a casa.",
+    "japanese": "私は家に帰ります。",
+    "reading": "わたしは いえに かえります。",
+    "alternatives": ["家に帰ります", "いえにかえります", "私はいえに帰ります", "わたしは家にかえります", "うちに帰ります"]
+  },
+  {
+    "id": "n5_19",
+    "italian": "Io faccio colazione.",
+    "japanese": "私は朝ご飯を食べます。",
+    "reading": "わたしは あさごはんを たべます。",
+    "alternatives": ["朝ご飯を食べます", "あさごはんをたべます", "朝ごはんを食べます", "朝御飯を食べます"]
+  },
+  {
+    "id": "n5_20",
+    "italian": "Io nuoto in piscina.",
+    "japanese": "私はプールで泳ぎます。",
+    "reading": "わたしは ぷーるで およぎます。",
+    "alternatives": ["プールで泳ぎます", "ぷーるでおよぎます", "私はぷーるで泳ぎます", "わたしはプールでおよぎます"]
+  },
+  {
+    "id": "n5_21",
+    "italian": "Io non mangio il pane.",
+    "japanese": "私はパンを食べません。",
+    "reading": "わたしは ぱんを たべません。",
+    "alternatives": ["パンを食べません", "ぱんをたべません", "私はパンをたべません", "わたしはパンを食べません"]
+  },
+  {
+    "id": "n5_22",
+    "italian": "Io non vado a scuola.",
+    "japanese": "私は学校に行きません。",
+    "reading": "わたしは がっこうに いきません。",
+    "alternatives": ["学校に行きません", "がっこうにいきません", "私はがっこうに行きません", "わたしは学校にいきません"]
+  },
+  {
+    "id": "n5_23",
+    "italian": "Io non bevo caffè.",
+    "japanese": "私はコーヒーを飲みません。",
+    "reading": "わたしは こーひーを のみません。",
+    "alternatives": ["コーヒーを飲みません", "こーひーをのみません", "私はこーひーを飲みません", "わたしはコーヒーをのみません"]
+  },
+  {
+    "id": "n5_24",
+    "italian": "Io non leggo il giornale.",
+    "japanese": "私は新聞を読みません。",
+    "reading": "わたしは しんぶんを よみません。",
+    "alternatives": ["新聞を読みません", "しんぶんをよみません", "私はしんぶんを読みません", "わたしは新聞をよみません"]
+  },
+  {
+    "id": "n5_25",
+    "italian": "Io non guardo la TV.",
+    "japanese": "私はテレビを見ません。",
+    "reading": "わたしは てれびを みません。",
+    "alternatives": ["テレビを見ません", "てれびをみません", "私はてれびを見ません", "わたしはテレビをみません"]
+  }
+]
