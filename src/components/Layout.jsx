@@ -19,9 +19,9 @@ export default function Layout({ children }) {
   ];
 
   return (
-    <div className="flex min-h-screen">
-      {/* Minimal Sidebar */}
-      <aside className="w-20 bg-white border-r border-gray-100 flex flex-col items-center py-8 gap-6 shadow-washi">
+    <div className="flex flex-col md:flex-row min-h-screen">
+      {/* Sidebar Desktop - Nascosta su mobile */}
+      <aside className="hidden md:flex w-20 bg-white border-r border-gray-100 flex-col items-center py-8 gap-6 shadow-washi">
         {/* Logo */}
         <div className="mb-4">
           <div className="w-12 h-12 rounded-full bg-hinomaru flex items-center justify-center text-white font-bold text-xl font-mincho">
@@ -52,9 +52,33 @@ export default function Layout({ children }) {
       </aside>
 
       {/* Main Content */}
-      <main className="flex-1 overflow-y-auto">
+      <main className="flex-1 overflow-y-auto pb-20 md:pb-0">
         {children}
       </main>
+
+      {/* Bottom Nav Mobile - Visibile solo su mobile */}
+      <nav className="md:hidden fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 shadow-lg z-50">
+        <div className="flex justify-around items-center py-2 px-1">
+          {navItems.map(item => {
+            const isActive = location.pathname === item.path;
+            return (
+              <Link
+                key={item.path}
+                to={item.path}
+                className={`flex flex-col items-center gap-0.5 min-w-0 flex-1 transition-all ${
+                  isActive ? 'text-hinomaru' : 'text-gray-400'
+                }`}
+              >
+                <span className="text-xl">{item.icon}</span>
+                <span className="text-[9px] font-medium truncate max-w-full">{item.label}</span>
+                {isActive && (
+                  <div className="w-1 h-1 rounded-full bg-hinomaru" />
+                )}
+              </Link>
+            );
+          })}
+        </div>
+      </nav>
     </div>
   );
 }

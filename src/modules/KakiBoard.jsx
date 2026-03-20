@@ -497,10 +497,10 @@ export default function KakiBoard() {
   };
 
   return (
-    <div className="min-h-screen bg-washi py-12 px-4">
+    <div className="min-h-screen bg-washi py-3 md:py-12 px-2 md:px-4">
       <div className="max-w-6xl mx-auto">
         {/* Header */}
-        <div className="card-wabi mb-6">
+        <div className="card-wabi mb-3 md:mb-6 p-3 md:p-6">
           <div className="flex items-center justify-between mb-4">
             <h1 className="text-3xl font-bold text-sumi flex items-center gap-3">
               <span className="font-mincho">✍️</span>
@@ -530,15 +530,14 @@ export default function KakiBoard() {
           )}
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-8">
+        <div className="flex flex-col gap-4 md:gap-8">
           {/* Canvas Area */}
-          <div className="card-wabi">
+          <div className="card-wabi p-3 md:p-6">
             {/* Canvas Wrapper */}
             <div
+              className="canvas-wrapper"
               style={{
                 position: 'relative',
-                width: '90vw',
-                maxWidth: '400px',
                 aspectRatio: '1',
                 margin: '0 auto',
                 border: '2px solid #E5E7EB',
@@ -757,56 +756,68 @@ export default function KakiBoard() {
 
             {/* Stroke Hint Indicator */}
             {currentKanji && (
-              <div className="text-center mt-3 text-sm text-gray-600">
+              <div className="text-center mt-2 md:mt-3 text-xs md:text-sm text-gray-600">
                 <span className="font-semibold">Tratto {pathsHistoryRef.current.length} di {currentKanji.strokes}</span>
               </div>
             )}
 
             {/* Controls */}
-            <div className="grid grid-cols-3 gap-2 mt-4">
+            <div className="grid grid-cols-3 gap-1.5 md:gap-2 mt-3 md:mt-4">
               <button
                 onClick={handleClear}
-                className="btn-minimal py-2 text-sm font-semibold"
+                className="btn-minimal py-1.5 md:py-2 text-xs md:text-sm font-semibold"
               >
-                🗑️ Cancella
+                🗑️ <span className="hidden md:inline">Cancella</span>
               </button>
               <button
                 onClick={handleUndo}
-                className="btn-minimal py-2 text-sm font-semibold"
+                className="btn-minimal py-1.5 md:py-2 text-xs md:text-sm font-semibold"
                 disabled={pathsHistoryRef.current.length === 0}
               >
-                ↶ Undo
+                ↶ <span className="hidden md:inline">Undo</span>
               </button>
               <button
                 onClick={() => setShowReference(!showReference)}
-                className="btn-minimal py-2 text-sm font-semibold"
+                className="btn-minimal py-1.5 md:py-2 text-xs md:text-sm font-semibold"
               >
-                {showReference ? '👁️ Nascondi' : '👁️ Guida'}
+                👁️ <span className="hidden md:inline">{showReference ? 'Nascondi' : 'Guida'}</span>
               </button>
               <button
                 onClick={() => setShowStrokeOrder(!showStrokeOrder)}
-                className="btn-minimal py-2 text-sm font-semibold"
+                className="btn-minimal py-1.5 md:py-2 text-xs md:text-sm font-semibold"
                 disabled={!kanjiSVGData || !kanjiSVGData.hints}
               >
-                {showStrokeOrder ? '🔢 Nascondi' : '🔢 Ordine'}
+                🔢 <span className="hidden md:inline">{showStrokeOrder ? 'Nascondi' : 'Ordine'}</span>
               </button>
               <button
                 onClick={handleShowSolution}
-                className="btn-minimal py-2 text-sm font-semibold"
+                className="btn-minimal py-1.5 md:py-2 text-xs md:text-sm font-semibold"
               >
-                💡 Soluzione
+                💡 <span className="hidden md:inline">Soluzione</span>
               </button>
               <button
                 onClick={handleCheck}
-                className="btn-accent py-2 text-sm font-bold"
+                className="btn-accent py-1.5 md:py-2 text-xs md:text-sm font-bold"
                 disabled={isDrawing || pathsHistoryRef.current.length === 0}
               >
-                ✓ Verifica
+                ✓ <span className="hidden md:inline">Verifica</span>
               </button>
             </div>
 
             {/* CSS Animation */}
             <style>{`
+              /* Canvas sizing responsive */
+              .canvas-wrapper {
+                width: 65vw;
+                max-width: 400px;
+              }
+
+              @media (min-width: 768px) {
+                .canvas-wrapper {
+                  width: 400px;
+                }
+              }
+
               @keyframes stampAppear {
                 0% {
                   transform: translate(-50%, -50%) scale(0) rotate(-15deg);
@@ -863,12 +874,12 @@ export default function KakiBoard() {
           </div>
 
           {/* Info Panel */}
-          <div className="card-wabi">
+          <div className="card-wabi p-4 md:p-6">
             {currentKanji ? (
               <>
                 {/* Kanji Display */}
-                <div className="text-center mb-8">
-                  <div className="text-9xl font-bold mb-4 text-sumi font-mincho">
+                <div className="text-center mb-4 md:mb-8">
+                  <div className="text-7xl md:text-9xl font-bold mb-2 md:mb-4 text-sumi font-mincho">
                     {currentKanji.kanji}
                   </div>
                   <div className="text-sm text-gray-500 mb-2">
@@ -877,7 +888,7 @@ export default function KakiBoard() {
                 </div>
 
                 {/* Readings */}
-                <div className="space-y-4 mb-6">
+                <div className="space-y-2 md:space-y-4 mb-4 md:mb-6">
                   <div className="p-3 rounded-lg bg-blue-50">
                     <div className="text-xs text-blue-600 font-semibold mb-1">音読み (Onyomi)</div>
                     <div className="text-lg font-bold text-blue-700 font-mincho">{currentKanji.onyomi}</div>
@@ -894,7 +905,7 @@ export default function KakiBoard() {
 
                 {/* Examples */}
                 {currentKanji.examples && currentKanji.examples.length > 0 && (
-                  <div className="space-y-3 mb-6">
+                  <div className="space-y-2 md:space-y-3 mb-4 md:mb-6">
                     <div className="text-xs text-gray-600 font-semibold">📝 Esempi</div>
                     {currentKanji.examples.slice(0, 3).map((ex, idx) => (
                       <div key={idx} className="p-3 rounded-lg bg-gray-50 border border-gray-200">
@@ -910,18 +921,18 @@ export default function KakiBoard() {
                 )}
 
                 {/* Navigation */}
-                <div className="grid grid-cols-2 gap-3">
+                <div className="grid grid-cols-2 gap-2 md:gap-3">
                   <button
                     onClick={handlePrev}
                     disabled={currentIndex === 0}
-                    className="btn-minimal py-3 font-semibold disabled:opacity-30"
+                    className="btn-minimal py-2 md:py-3 text-sm md:text-base font-semibold disabled:opacity-30"
                   >
                     ← Precedente
                   </button>
                   <button
                     onClick={handleNext}
                     disabled={currentIndex === kanjiData.length - 1}
-                    className="btn-minimal py-3 font-semibold disabled:opacity-30"
+                    className="btn-minimal py-2 md:py-3 text-sm md:text-base font-semibold disabled:opacity-30"
                   >
                     Successivo →
                   </button>
